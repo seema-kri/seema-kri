@@ -52,7 +52,7 @@ Currently, I am looking for **internship or entry-level opportunities** where I 
 ---
 
 ## 📊 GitHub Stats
-![Seema's GitHub stats](https://github-readme-stats.vercel.app/api?username=seema-kri&theme=dark&hide_border=false)
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=seema-kri&theme=dark&hide_border=false)
 
 
