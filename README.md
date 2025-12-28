@@ -58,4 +58,4 @@ Currently, I am looking for **internship or entry-level opportunities** where I 
 
 [![](https://visitcount.itsvg.in/api?id=seema-kri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ *Open to internship and entry-level opportunities in Data & Analytics*
+⭐ *Open to internship and entry-level opportunities in Data & Analytics.*
