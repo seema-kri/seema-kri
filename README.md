@@ -2,7 +2,7 @@
 
 🎓 B.Tech student at **NIT Agartala**  
 📊 Aspiring **Data Analyst | Business Analyst | Analytics Intern**  
-📍 India
+📍 Bihar, India
 
 ---
 
