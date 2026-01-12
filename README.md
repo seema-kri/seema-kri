@@ -1,57 +1,93 @@
 # 👋 Hi, I'm Seema Kumari
 
-🎓 B.Tech student at **NIT Agartala**  
-📊 Aspiring **Data Analyst | Business Analyst | Analytics Intern**  
-📍 Bihar, India
+🎓 B.Tech (Mechanical Engineering) | **NIT Agartala**  
+📊 **Data Analyst | Business Analyst | MIS / Operations Analyst**  
+📍 India  
 
 ---
 
-## 💫 About Me
-I am **Seema Kumari**, an aspiring **Data Analyst** with hands-on experience in **SQL, Python, Excel, Statistics, and Power BI**. I enjoy working with data to clean, analyze, and transform it into meaningful insights that support business decision-making.
+## 🚀 Profile Summary
+Analytical and detail-oriented **Data Analyst aspirant** with hands-on experience in **Excel, SQL, Python, Power BI, and Statistics**. Skilled in transforming raw data into meaningful insights to support **business, operations, and decision-making**.
 
-I have worked on projects involving **retail and e-commerce data**, where I used SQL for querying, Python for analysis, and Excel and Power BI for reporting and dashboards. Through these projects, I have developed a strong foundation in **data analysis, visualization, and statistical thinking**.
+Experienced in analyzing **retail and e-commerce data**, building **dashboards, MIS reports, and KPIs**, and working with structured datasets. Strong foundation in **data cleaning, EDA, reporting, and operations analytics**, with basic exposure to machine learning concepts.
 
-Currently, I am looking for **internship or entry-level opportunities** where I can apply my analytical skills, learn from real-world data problems, and grow as a data professional.
+Actively seeking **internship and entry-level opportunities** in **Data Analytics, MIS, Business & Operations Analytics**.
 
 ---
 
-## 🎯 Roles I Am Targeting
+## 🎯 Target Roles
 - Data Analyst Intern / Fresher  
 - Business Analyst Intern  
-- SQL / Reporting Analyst  
 - MIS / Operations Analyst  
+- SQL / Reporting Analyst  
 - Analytics Intern  
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 🧠 Core Skills
+
+### 📊 Data Analysis & Programming
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- SQL (MySQL, PostgreSQL) – Joins, Subqueries, Aggregations
+- Data Cleaning, EDA, Feature Engineering
+- Descriptive & Inferential Statistics
+
+### 📈 BI, Reporting & Operations Analytics
+- Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, Dashboards)
+- Power BI (Power Query, DAX, KPIs, Interactive Dashboards)
+- MIS Reporting & Performance Tracking
+
+### 🤖 Analytics Foundations
+- Statistical Analysis
+- Trend & Performance Analysis
+- Basic Machine Learning Concepts
 
 ---
 
-## 📌 Projects Highlights
-- 📊 **Retail Store Annual Report** – Excel dashboard, SQL analysis, business insights  
-- 🛒 **Amazon Sales Dashboard** – Power BI, DAX, KPI tracking  
-- 📈 **E-Commerce Sales Analysis** – Python, Pandas, visualization  
+## 📌 Key Projects
+
+### 📊 Retail Sales Analysis & Annual Dashboard
+**Tools:** SQL, Excel  
+- Analyzed 3,900+ retail transactions to study sales trends, customer behavior, and delivery efficiency  
+- Built an interactive Excel dashboard for sales, orders, channels, and state-wise performance  
+- Identified key insights such as **92% delivery rate** and **64% revenue from female customers**  
+
+🔗 https://github.com/seema-kri/Retail-Sales-Performance-Analysis-Excel-SQL-Dashboard-Project-
+
+---
+
+### 🛒 Amazon Sales Dashboard
+**Tools:** Power BI, Power Query, DAX  
+- Designed a Power BI dashboard to track sales, orders, fulfillment status, and regions  
+- Created KPIs using DAX for business reporting  
+- Highlighted top products, cities, and growth trends  
+
+🔗 https://github.com/seema-kri/Amazon-Sales-Performance-Dashboard
+
+---
+
+### 📈 E-Commerce Sales & Profit Analysis
+**Tools:** Python, Pandas  
+- Performed data cleaning, EDA, and time-series analysis  
+- Identified high-profit categories, peak sales months, and top customer segments  
+- Converted raw data into actionable insights through visualization  
+
+🔗 https://github.com/seema-kri/E-Commerce-Database-Analysis
+
+---
+
+## 🏅 Programs & Achievements
+- **Siemens Scholarship Program** (Top 298 Nationwide)  
+- **Infosys STEM Stars Scholar** (Top 500 Nationwide)  
+- **Adobe India Hackathon 2024** –  Selected for Round 2 among 10,000+ participants 
+- **Myntra HackerRamp (WeForShe) 2025**- National-level participant 
+
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seema-kumari-375763308/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kriseema87@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/seema-kumari-375763308/  
+📧 Email: kriseema87@gmail.com  
 
 ---
 
-
-[![](https://visitcount.itsvg.in/api?id=seema-kri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-⭐ *Open to internship and entry-level opportunities in Data & Analytics.*
+⭐ Open to **Data, MIS, Business & Operations Analytics internships and placements**.
