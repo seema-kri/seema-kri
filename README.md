@@ -1,26 +1,14 @@
-# 👋 Hi, I'm Seema Kumari
+# 👋 Seema Kumari
 
-🎓 B.Tech student at **NIT Agartala**  
-📊 Aspiring **Data Analyst | Business Analyst | Analytics Intern**  
-📍 Bihar, India
+🎓 B.Tech | NIT Agartala
+📊 Data Analyst Aspirant | Analytics Intern
+📍 India
 
 ---
 
 ## 💫 About Me
 I am **Seema Kumari**, an aspiring **Data Analyst** with hands-on experience in **SQL, Python, Excel, Statistics, and Power BI**. I enjoy working with data to clean, analyze, and transform it into meaningful insights that support business decision-making.
-
-I have worked on projects involving **retail and e-commerce data**, where I used SQL for querying, Python for analysis, and Excel and Power BI for reporting and dashboards. Through these projects, I have developed a strong foundation in **data analysis, visualization, and statistical thinking**.
-
-Currently, I am looking for **internship or entry-level opportunities** where I can apply my analytical skills, learn from real-world data problems, and grow as a data professional.
-
----
-
-## 🎯 Roles I Am Targeting
-- Data Analyst Intern / Fresher  
-- Business Analyst Intern  
-- SQL / Reporting Analyst  
-- MIS / Operations Analyst  
-- Analytics Intern  
+Experienced in analyzing retail & e-commerce data, building dashboards, and converting data into clear business insights. Actively seeking Data & Analytics internships / entry-level roles. 
 
 ---
 
