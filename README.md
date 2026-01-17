@@ -1,4 +1,4 @@
-# 👋 Seema Kumari
+## 👋 Seema Kumari
 
 -🎓 B.Tech | NIT Agartala
 -📊 Data Analyst Aspirant | Analytics Intern
