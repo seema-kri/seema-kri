@@ -34,7 +34,7 @@ Experienced in analyzing retail & e-commerce data, building dashboards, and conv
 ## 📌 Projects Highlights
 - 📊 **Retail Store Annual Report** – Excel dashboard, SQL analysis, business insights  
 - 🛒 **Amazon Sales Dashboard** – Power BI, DAX, KPI tracking  
-- 📈 **E-Commerce Sales Analysis** – Python, Pandas, visualization  
+- 📈 **Salary-Data-Analysis-using-Python** – Python, Pandas,Numpy, visualization libraries
 ---
 
 ## 🌐 Connect With Me
