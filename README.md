@@ -19,8 +19,8 @@ I am actively seeking a **Data / Analytics Internship** where I can gain **pract
 
 ## 🔍 What I’m Currently Doing  
 
-- 📌 Practicing **SQL daily** (LeetCode, HackerRank, CodeChef)  
-- 📊 Improving **data analysis & visualization** skills using Python  
+- 📌 Practicing **SQL daily** 
+- 📊 Improving **data analysis & visualization** skills n  
 - 📈 Building **end-to-end analytics projects**  
 - 🧠 Strengthening **business problem-solving & analytical thinking**  
 - 📝 Documenting learning & projects on GitHub  
