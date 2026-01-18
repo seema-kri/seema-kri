@@ -1,7 +1,7 @@
 # 👋 Seema Kumari  
 
 🎓 **B.Tech Undergraduate** **| NIT Agartala**  
-📍 **Bihar,India**  
+📍 **Bihar, India**  
 📊 **Aspiring Data Analyst**  
 💼 **Analytics Intern**  
 
@@ -12,7 +12,7 @@
 I am **Seema Kumari**, an aspiring **Data Analyst** currently in an active **practice and project-building phase**.  
 I am strengthening my skills through **hands-on projects and daily practice** in **SQL, Python, Excel, Statistics, and Power BI**.
 
-My focus is on solving real-world business problems using data—cleaning datasets, performing analysis, and presenting insights through dashboards and reports.  
+My focus is on solving real-world business problems using data cleaning datasets, performing analysis, and presenting insights through dashboards and reports.  
 I am actively seeking a **Data / Analytics Internship** where I can gain **practical industry experience**, learn from real business data, and contribute meaningfully to analytics tasks.
 
 ---
