@@ -1,6 +1,6 @@
 # 👋 Seema Kumari  
 
-🎓 **B.Tech Undergraduate** | NIT Agartala  
+🎓 **B.Tech Undergraduate** **| NIT Agartala**  
 📍 **Bihar,India**  
 📊 **Aspiring Data Analyst**  
 💼 **Analytics Intern**  
