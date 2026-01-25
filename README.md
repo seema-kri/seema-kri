@@ -1,7 +1,7 @@
 Hi there 👋, I'm Seema Kumari  
 =================================
 
-### 3rd Year Mechanical Engineering Student | Aspiring Data Analyst | India 🇮🇳  
+### 3rd Year Mechanical Engineering Student | Aspiring Data Analyst | Bihar, India  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seema-kri&label=Profile%20views&color=0e75b6&style=flat)
 
