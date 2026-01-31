@@ -11,11 +11,11 @@ Hi there 👋, I'm Seema Kumari
 
 ## 🎓 About Me  
 
-I am a **3rd-year Mechanical Engineering undergraduate**, actively transitioning into the field of **Data Analytics**.
+I am a 3rd-year Mechanical Engineering student with a strong foundation in analytical thinking, problem-solving, and logical reasoning, now transitioning into Data Analytics.
 
-With a strong engineering foundation in **problem-solving, logic, and systems thinking**, I am now building practical skills in **Excel, SQL, Python, and Power BI** to analyze data and generate meaningful business insights.
+I am proficient in Microsoft Excel and SQL, and I am actively building expertise in Python and Power BI through real-world projects and internship-level practice.
 
-I am currently focused on **hands-on projects, daily SQL practice, MIS reporting, and dashboard building**, and I am seeking a **Data Analyst / MIS / Analytics Internship** to gain real-world industry exposure.
+I aim to leverage my skills to analyze data, generate actionable insights, and support business decision-making, and I am seeking a Data Analyst / MIS / Analytics Internship to gain industry exposure.
 
 ---
 
@@ -27,7 +27,6 @@ I am currently focused on **hands-on projects, daily SQL practice, MIS reporting
 ✨ **Power BI (DAX, KPIs, Interactive Dashboards)**  
 ✨ **Data Cleaning & Data Visualization**  
 ✨ **Analytical Thinking & Problem Solving**  
-✨ **Communication & Presentation Skills**
 
 ---
 
