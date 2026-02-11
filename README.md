@@ -76,7 +76,7 @@ Fintech → Healthcare → Retail → Web Analytics — real datasets, real insi
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-seema--kri-black?style=for-the-badge\&logo=github)](https://github.com/seema-kri)
+[![GitHub](https://img.shields.io/badge/GitHub-seema--kri-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/seema-kri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seema%20Kumari-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seema-kumari-375763308/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-seemakri136-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/seemakri136/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-keen__art__17-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/keen_art_17)
