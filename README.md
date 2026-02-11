@@ -24,41 +24,15 @@ Fintech → Healthcare → Retail → Web Analytics — real datasets, real insi
 
 # 🚀 Featured Analytics Projects
 
-📊 **PhonePe Transaction Intelligence Dashboard (300K+ records)**
-Power BI dashboard tracking success rate, failure drivers & service KPIs
-🔗 https://github.com/seema-kri/PhonePe-Business-Intelligence-Dashboard
-
-🏥 **Emergency Room Operations Analytics**
-SQL + Excel analysis of patient flow, wait-time SLA & admissions
-🔗 https://github.com/seema-kri/Emergency-Room-Operations-Patient-Flow-Dashboard
-
-📈 **Sales KPI Dashboard (2023–2024 YoY)**
-Revenue, profit & margin trend analysis with interactive reporting
-🔗 https://github.com/seema-kri/Sales-Performance-Dashboard-2023-2024
-
-🛒 **Retail Sales Performance Analysis**
-End-to-end SQL + Excel business insights project
-🔗 https://github.com/seema-kri/Retail-Sales-Performance-Analysis
-
-🧾 **Zepto SQL Product Analysis**
-Advanced SQL queries for pricing & catalog intelligence
-🔗 https://github.com/seema-kri/Zepto-SQL-Data-Analysis
-
-📉 **Salary Data Analysis (Python)**
-Pandas EDA on compensation trends
-🔗 https://github.com/seema-kri/Salary-Data-Analysis-using-Python
-
-🧹 **Excel Data Cleaning & Standardization**
-Structured transformation & data quality workflows
-🔗 https://github.com/seema-kri/Excel-Data-Cleaning-Standardization
-
-🌐 **Website KPI Dashboard**
-Traffic, engagement & conversion analytics
-🔗 https://github.com/seema-kri/Website-KPI-Dashboard
-
-📚 **Excel Analytics Portfolio**
-Collection of dashboard & MIS reporting projects
-🔗 https://github.com/seema-kri/Excel-Portfolio
+* 📊 **[PhonePe BI Dashboard](https://github.com/seema-kri/PhonePe-Business-Intelligence-Dashboard)** — Analyze 300K+ digital transactions to monitor success rate, failures, and service KPIs
+* 🏥 **[ER Operations Dashboard](https://github.com/seema-kri/Emergency-Room-Operations-Patient-Flow-Dashboard)** — Patient flow, wait-time SLA, admissions & satisfaction analytics using SQL + Excel
+* 📈 **[Sales KPI Dashboard](https://github.com/seema-kri/Sales-Performance-Dashboard-2023-2024)** — YoY revenue, profit, and margin intelligence with interactive reporting
+* 🛒 **[Retail Sales Analysis](https://github.com/seema-kri/Retail-Sales-Performance-Analysis)** — End-to-end retail dataset analysis with SQL queries + Excel dashboards
+* 🧾 **[Zepto SQL Analysis](https://github.com/seema-kri/Zepto-SQL-Data-Analysis)** — Product catalog, pricing & inventory insights using advanced SQL
+* 🧹 **[Excel Data Cleaning Project](https://github.com/seema-kri/Excel-Data-Cleaning-Standardization)** — Data standardization, transformation & quality improvement workflows
+* 📉 **[Salary Data Analysis (Python)](https://github.com/seema-kri/Salary-Data-Analysis-using-Python)** — Pandas EDA on salary trends and distributions
+* 🌐 **[Website KPI Dashboard](https://github.com/seema-kri/Website-KPI-Dashboard)** — Traffic, engagement & conversion analytics dashboard
+* 📚 **[Excel Analytics Portfolio](https://github.com/seema-kri/Excel-Portfolio)** — Collection of Excel dashboards & MIS reporting projects
 
 ---
 
@@ -80,15 +54,16 @@ Collection of dashboard & MIS reporting projects
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seema-kri\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&hide_border=true" height="160"/>
+</p>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 * Advanced Power BI KPI models
 * SQL analytics case studies
@@ -98,16 +73,16 @@ Collection of dashboard & MIS reporting projects
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-💼 **LinkedIn** — https://www.linkedin.com/in/seema-kumari-375763308/
-💻 **GitHub** — https://github.com/seema-kri
-🧠 **HackerRank** — https://www.hackerrank.com/profile/seemakri136
-📧 **Email** — [seemakri136@gmail.com](mailto:seemakri136@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seema%20Kumari-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/seema-kumari-375763308/)
+[![GitHub](https://img.shields.io/badge/GitHub-seema--kri-black?style=for-the-badge\&logo=github)](https://github.com/seema-kri)
+[![HackerRank](https://img.shields.io/badge/HackerRank-seemakri136-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/seemakri136)
+[![Email](https://img.shields.io/badge/Email-seemakri136%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:seemakri136@gmail.com)
 
 ---
 
-# 💡 Philosophy
+## 💡 Philosophy
 
 **Data → Insight → Decision → Impact**
 Measure what matters, analyze deeply, communicate clearly.
@@ -115,7 +90,5 @@ Measure what matters, analyze deeply, communicate clearly.
 ---
 
 ⭐ If you find my projects useful, consider starring the repo.
-
----
 
 ⭐ Open to **Data Analyst / MIS / Business Analytics Internships**
