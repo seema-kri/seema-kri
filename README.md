@@ -61,6 +61,7 @@ Fintech → Healthcare → Retail → Web Analytics — real datasets, real insi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&hide_border=true" height="160"/>
 </p>
 
+
 ---
 
 ## 🎯 Current Focus
@@ -73,12 +74,14 @@ Fintech → Healthcare → Retail → Web Analytics — real datasets, real insi
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seema%20Kumari-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/seema-kumari-375763308/)
 [![GitHub](https://img.shields.io/badge/GitHub-seema--kri-black?style=for-the-badge\&logo=github)](https://github.com/seema-kri)
-[![HackerRank](https://img.shields.io/badge/HackerRank-seemakri136-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/seemakri136)
-[![Email](https://img.shields.io/badge/Email-seemakri136%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:seemakri136@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seema%20Kumari-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seema-kumari-375763308/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-seemakri136-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/seemakri136/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-keen__art__17-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/keen_art_17)
+[![HackerRank](https://img.shields.io/badge/HackerRank-seemakri136-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/seemakri136)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seemakri136@gmail.com)
 
 ---
 
