@@ -1,7 +1,9 @@
 # Hi, I’m Seema Kumari 👋
 
 📍 India | 📊 Data Analyst | 🎓 NIT Agartala
+
 🏆 Siemens Scholar • Infosys STEM Star Scholar • FFE Scholar
+
 🎯 Open to Data Analyst / MIS / BI Internships
 
 **I build KPI dashboards and analytics projects that turn raw data into business decisions.**
