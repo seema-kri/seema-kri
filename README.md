@@ -1,27 +1,19 @@
 # Hi, I'm Seema Kumari 👋
 
-📍 India &nbsp;|&nbsp; 🎓 NIT Agartala &nbsp;|&nbsp; 🏆 Siemens Scholar • Infosys STEM Star • FFE Scholar
-
-**Data Analyst** building end-to-end analytics solutions — from raw data to business decisions.
-
-🎯 Open to **Data Analyst / BI / MIS Internships**
+📍 India  |  🎓 NIT Agartala  |  🏆 Siemens Scholar • Infosys STEM Star • FFE Scholar  
+Data Analyst building end-to-end analytics solutions — from raw data to business decisions.
+🎯 Open to Data Analyst / Business Analyst / MIS Analyst / BI Analyst / Data Analytics Internships  
 
 ---
 
 ## ⚡ Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
 ![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
