@@ -39,7 +39,7 @@ Data Analyst building end-to-end analytics solutions — from raw data to busine
 - Delivered 5 prioritized business recommendations mapped to exact failure data, enabling stakeholders to act without further analysis
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri/PhonePe-Business-Intelligence-Dashboard)
-[![Dashboard](https://img.shields.io/badge/Live-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/seema-kri/PhonePe-Payment-Analytics-Dashboard)
+
 
 ---
 
