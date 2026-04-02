@@ -28,7 +28,7 @@ Data Analyst building end-to-end analytics solutions — from raw data to busine
 - Quantified 3–4× EV adoption surge post-2020 and 80% BEV market dominance — reframed charging infrastructure as the primary adoption bottleneck
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri)
-[![Dashboard](https://img.shields.io/badge/Live-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence)
+
 
 ---
 ### 📊 PhonePe Payment Analytics Dashboard — Power BI
