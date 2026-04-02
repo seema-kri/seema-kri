@@ -2,6 +2,7 @@
 
 📍India  | 🎓 NIT Agartala  |  🏆 Siemens Scholar • Infosys STEM Star • FFE Scholar  
 Data Analyst building end-to-end analytics solutions — from raw data to business decisions.
+
 🎯 Open to Data Analyst / Business Analyst / MIS Analyst / BI Analyst / Data Analytics Internships  
 
 ---
