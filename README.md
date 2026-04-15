@@ -18,7 +18,7 @@
 
 ## ⚡ Featured Projects
 
-### 🏆 Walmart BI Analytics Platform
+### 🏆 Walmart Sales Analytics 
 
 **End-to-End BI System | 550K+ Transactions**
 
