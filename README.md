@@ -54,10 +54,15 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-Advanced-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-Advanced-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-Data%20Analysis-8B5CF6?style=for-the-badge"/>
+
 </p>
+
 
 ---
 
