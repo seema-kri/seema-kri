@@ -1,28 +1,28 @@
-<div align="center">
+# Hi 👋 I'm Seema Kumari
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=200&section=header&text=Seema%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=58&descColor=bbf7d0" />
+📧 Email Me 👉 [seemakri136@gmail.com](mailto:seemakri136@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=22C55E\&center=true\&vCenter=true\&width=700\&lines=Turning+Data+into+Insights+📊;550K%2B+Records+Analyzed;Python+%7C+SQL+%7C+Power+BI;Learning+Data+Science+🚀)](https://git.io/typing-svg)
-
-</div>
+I’m a **Data Analyst & Aspiring Data Scientist** passionate about turning raw data into meaningful insights and business decisions.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 What I'm Currently Doing
 
-```python
-seema = {
-    "role": "Data Analyst | Aspiring Data Scientist",
-    "skills": ["Python", "SQL", "Power BI"],
-    "experience": "550K+ records analyzed"
-}
-```
-
-💡 Turning data into meaningful insights.
+🔭 Working on: Data analysis projects & dashboards
+🌱 Learning: Python, SQL, and Data Science concepts
+👯 Open to collaborate on: Data projects & beginner-friendly open source
+🤔 Exploring: Real-world data problems & EDA techniques
+💬 Ask me about: Python, SQL, Data Analysis
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials
+
+[LinkedIn](https://www.linkedin.com/in/seema-kumari-375763308/) • [GitHub](https://github.com/seema-kri) • Email
+
+---
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
@@ -39,7 +39,7 @@ seema = {
 ### 🏆 Walmart Sales Analytics
 
 * 📊 EDA on **550K+ records** using Python & SQL
-* 📈 Built dashboard for business insights
+* 📈 Built dashboard delivering business insights
 
 🔗 https://github.com/seema-kri/walmart-sales-analytics
 
@@ -48,7 +48,7 @@ seema = {
 ### 🚗 EV Market Analysis
 
 * 📊 EDA on **280K+ records**
-* 📉 Found **41% dominance & trends**
+* 📉 Identified **market trends & dominance patterns**
 
 🔗 https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence
 
@@ -56,19 +56,26 @@ seema = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
+![Seema's GitHub stats](https://github-readme-stats.vercel.app/api?username=seema-kri\&show_icons=true)
 
 ---
 
-## 🤝 Connect
+## 🏆 GitHub Trophies
 
-* 📧 [seemakri136@gmail.com](mailto:seemakri136@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/seema-kumari-375763308/
+[![trophy](https://github-profile-trophy.vercel.app/?username=seema-kri)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-💼 Open to Data Analyst / Data Science Roles
+## ✍️ Quote
+
+*"Learning data, building skills, growing every day."*
+
+---
+
+## 🔝 Top Contributed Repo
+
+<!-- GitHub auto shows this -->
+
+---
+
+💼 Open to Data Analyst / Entry-Level Data Science Roles
