@@ -4,10 +4,9 @@
 
 <h3 align="left">Data Analyst | Python • SQL • Power BI</h3>
 
-<p align="center">
+<p align="left">
 💡 Transforming data into actionable insights that drive business decisions  
 </p>
-
 ---
 
 ## 🌐 Connect & Profiles
