@@ -1,62 +1,34 @@
-<!-- 🔥 Personal Header -->
+<!-- 🔥 Animated Header -->
 
-<h1 align="left">👋 Hi, I'm Seema Kumari</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Seema+Kumari;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+🚀" />
+</p>
 
-<h3 align="left">📊 Data Analyst | Python • SQL • Power BI</h3>
+<h3 align="center">📊 Data Analyst | Python • SQL • Power BI • Azure</h3>
 
-<p align="left">
-💡 I turn raw data into meaningful insights that help businesses make smarter decisions.  
-🚀 Passionate about solving real-world problems using data analytics and visualization.
+<p align="center">
+💡 Turning raw data into actionable insights  
+🚀 Focused on solving real-world business problems  
 </p>
 
 ---
 
 ## 🌱 About Me
 
-* 🎓 Aspiring Data Analyst from India
-* 📊 Hands-on experience analyzing **280K–550K+ records** across real-world datasets
-* 🧠 Currently learning **advanced SQL, Python, and data pipelines**
-* 📈 Interested in **Business Intelligence, Data Visualization & Analytics**
-* 🤝 Open to **internships, collaborations & entry-level opportunities**
-
----
-
-## 🚀 What I'm Currently Doing
-
-* 🔍 Working on **data analysis projects & dashboards**
-* 📚 Learning **Python, SQL, and Power BI deeply**
-* ⚙️ Exploring **end-to-end data pipelines**
-* 📊 Practicing **real-world business case studies**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:seemakri136@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/seema-kumari-375763308/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/seema-kri">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/profile/seemakri136">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/seemakri136/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-</p>
+* 📊 Analyzed **280K–550K+ records** across real-world datasets
+* 🧠 Skilled in **Python, SQL, Power BI, Azure**
+* 📈 Focused on **Business Intelligence & Data Analytics**
+* 🤝 Open to **internships & entry-level roles**
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,azure" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -65,17 +37,37 @@
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **Walmart Sales Analytics**
-📊 Analyzed 550K+ records
-📈 Identified revenue trends & customer behavior
-📌 Built interactive dashboard for business insights
+### 🛒 Walmart Sales Analytics
 
-🔹 **EV Market Analysis**
-📊 Analyzed 280K+ records
-📉 Discovered market trends & growth patterns
-📌 Delivered insights for strategic decision-making
+<p align="center">
+  <img src="https://via.placeholder.com/700x350.png?text=Walmart+Sales+Dashboard" />
+</p>
+
+* 📊 Analyzed **550K+ records**
+* 📈 Identified revenue trends & customer segments
+* 📌 Built interactive dashboard for decision-making
+
+---
+
+### ⚡ EV Market Analysis
+
+<p align="center">
+  <img src="https://via.placeholder.com/700x350.png?text=EV+Market+Dashboard" />
+</p>
+
+* 📊 Analyzed **280K+ records**
+* 📉 Discovered growth trends & adoption patterns
+* 📌 Delivered insights for strategy planning
+
+---
+
+## 📊 Power BI Dashboard Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard+Preview" />
+</p>
 
 ---
 
@@ -92,10 +84,20 @@
 
 ---
 
-## 🎯 Career Goal
+## 🌐 Connect With Me
 
-✨ To become a skilled Data Analyst who can solve real business problems using data and contribute to impactful decision-making.
+<p align="center">
+<a href="mailto:seemakri136@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/seema-kumari-375763308/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/seema-kri">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+✨ *Building data-driven solutions and continuously improving every day*
