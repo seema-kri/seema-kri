@@ -37,41 +37,6 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Walmart Sales Analytics
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=Walmart+Sales+Dashboard" />
-</p>
-
-* 📊 Analyzed **550K+ records**
-* 📈 Identified revenue trends & customer segments
-* 📌 Built interactive dashboard for decision-making
-
----
-
-### ⚡ EV Market Analysis
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x350.png?text=EV+Market+Dashboard" />
-</p>
-
-* 📊 Analyzed **280K+ records**
-* 📉 Discovered growth trends & adoption patterns
-* 📌 Delivered insights for strategy planning
-
----
-
-## 📊 Power BI Dashboard Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard+Preview" />
-</p>
-
 ---
 
 ## 📈 GitHub Analytics
