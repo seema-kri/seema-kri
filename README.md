@@ -7,12 +7,12 @@
 
 ---
 
-# 👋 Seema Kumari
+# 👋 Seema Kumari  
 
-### Data Analyst | Python • SQL • Power BI
+### Data Analyst | Python • Excel • SQL • Power BI  
 
 <p align="center">
-💡 Turning data into actionable insights for smarter decisions  
+💡 Turning data into actionable insights that drive business decisions  
 </p>
 
 ---
