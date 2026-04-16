@@ -23,7 +23,7 @@ seema = {
 }
 ```
 
-💡 I enjoy **exploring data, finding patterns, and turning them into meaningful insights**.
+💡 I enjoy **exploring data, finding patterns, and turning them into insights**.
 
 ---
 
@@ -38,26 +38,29 @@ seema = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages & Databases**
 
-### 💻 Languages & Databases
+* Python
+* SQL
+* PostgreSQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+**Data Analysis**
 
-### 📊 Data Analysis
+* Pandas
+* NumPy
+* Matplotlib
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+**Visualization**
 
-### 📈 Visualization
+* Power BI
+* Excel
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel)
+**Tools**
 
-</div>
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
@@ -94,22 +97,12 @@ seema = {
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seema%20Kumari-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/seema-kumari-375763308/)
-[![Email](https://img.shields.io/badge/Email-seemakri136%40gmail.com-EA4335?style=for-the-badge\&logo=gmail)](mailto:seemakri136@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-seema--kri-181717?style=for-the-badge\&logo=github)](https://github.com/seema-kri)
-
-</div>
+* 📧 Email: [seemakri136@gmail.com](mailto:seemakri136@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/seema-kumari-375763308/
+* 💻 GitHub: https://github.com/seema-kri
 
 ---
-
-<div align="center">
 
 ### 💼 Open to Data Analyst / Entry-Level Data Science Roles
 
 🚀 *"Learning, building, and growing with data."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f766e&height=100&section=footer" />
-
-</div>
