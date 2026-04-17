@@ -16,7 +16,7 @@
 ## 🌱 About Me
 
 * 📊 Analyzed **280K–550K+ records** across real-world datasets
-* 🧠 Skilled in **Python, SQL, Power BI, Azure**
+* 🧠 Skilled in **Python, SQL, Excel, Power BI**
 * 📈 Focused on **Business Intelligence & Data Analytics**
 * 🤝 Open to **internships & entry-level roles**
 
