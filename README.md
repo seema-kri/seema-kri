@@ -44,9 +44,9 @@ seema = {
 
 | # | Project | What I Did | Stack | Scale |
 |---|---------|-----------|-------|-------|
-| 01 | [⚡ EVision — EV Market Intelligence](https://github.com/seema-kri/ev-market-intelligence) | Full ETL + market analysis + 5 business insights | Python · PostgreSQL · Power BI | 279K records |
+| 01 | [🍔 OrderIQ — Food Delivery Analytics](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics) | Operations analytics, delivery KPIs, BI dashboard | Python · SQL · Fabric · Power BI | End-to-end |
 | 02 | [🛒 Walmart Sales Analytics](https://github.com/seema-kri/walmart-sales-analytics) | Sales pipeline, SQL KPIs, Power BI dashboard | Python · SQL · Power BI | 500K+ records |
-| 03 | [🍔 OrderIQ — Food Delivery Analytics](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics) | Operations analytics, delivery KPIs, BI dashboard | Python · SQL · Fabric · Power BI | End-to-end |
+| 03 | [⚡ EVision — EV Market Intelligence](https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence) | Full ETL + market analysis + 5 business insights | Python · PostgreSQL · Power BI | 279K records |
 
 ---
 
