@@ -41,72 +41,12 @@
 
 ## What I've shipped
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [OrderIQ — Food Delivery Analytics](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics)
-**Microsoft Fabric · end-to-end production pipeline**
-
-Built a unified analytics platform on Microsoft Fabric: Lakehouse → Data Warehouse → Semantic Model → Power BI. 5 parallel pipeline activities, ~43s total load.
-
-- 197K orders · star schema · 10 SQL analytical modules
-- Surfaced power-law revenue distribution across states
-- Identified restaurant density asymmetry (demand > supply in key states)
-- MoM trend analysis revealed seasonal revenue dips
-
-`Microsoft Fabric` `T-SQL` `Power BI` `Python` `Lakehouse`
-
-</td>
-<td width="50%" valign="top">
-
-### [Walmart Sales Analytics](https://github.com/seema-kri/walmart-sales-analytics)
-**PostgreSQL star schema · $764M revenue · Power BI**
-
-Production BI system: raw CSVs → PostgreSQL star schema → 15 SQL queries (CTEs, window functions) → 3-page executive dashboard with 20+ DAX measures.
-
-- $59M regional gap identified (Central vs West)
-- $367M untapped B2B channel — zero corporate in top 10 LTV
-- Books only growing category (+3.6% YoY); Clothing –1.3%
-- Top employee generates 2.25× average revenue
-
-`Python` `PostgreSQL` `SQL` `Power BI` `DAX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Pharma A/B Test](https://github.com/seema-kri/pharma-ab-testing)
-**Statistical testing · ship/no-ship decision**
-
-End-to-end A/B test on packaging color + copy change. Two-proportion Z-test with full funnel and segment breakdown.
-
-- p-value = 0.00027 · +9.3 pp lift (+58% relative)
-- Funnel: add-to-cart stage was the key lever (+6.9 pp)
-- Android +10.8 pp · returning users +10.3 pp
-- Recommendation: ship Treatment B
-
-`Python` `scipy` `Z-test` `Jupyter` `pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### [EVision — EV Market Intelligence](https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence)
-**Full ETL · 279K records · policy insights**
-
-End-to-end ETL pipeline on 279K EV records with PostgreSQL warehouse and Power BI dashboard. 5 business insights for investment and policy decisions.
-
-- Market share, adoption trends, range analysis
-- Regional penetration breakdown across states
-- Executive dashboard with drill-through filters
-- Full data cleaning + referential integrity pipeline
-
-`Python` `PostgreSQL` `Power BI` `pandas`
-
-</td>
-</tr>
-</table>
+| Project | Result | Scale | Stack |
+|---|---|---|---|
+| [**OrderIQ — Food Delivery Analytics**](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics) | Surfaced revenue power-law + restaurant supply gaps across states | 197K orders · Fabric pipeline · 10 SQL modules | Fabric · T-SQL · Power BI · Python |
+| [**Walmart Sales Analytics**](https://github.com/seema-kri/walmart-sales-analytics) | Found $59M regional gap + $367M untapped B2B channel | 550K rows · $764M revenue · star schema | Python · PostgreSQL · Power BI · DAX |
+| [**Pharma A/B Test**](https://github.com/seema-kri/pharma-ab-testing) | Recommended shipping Treatment B — +58% conversion lift (p = 0.00027) | 1K users · Z-test · full funnel breakdown | Python · scipy · Jupyter |
+| [**EVision — EV Market Intelligence**](https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence) | Delivered 5 market insights for policy + investment decisions | 279K records · full ETL | Python · PostgreSQL · Power BI |
 
 ---
 
