@@ -45,7 +45,7 @@
 |---|---|---|---|
 | [**OrderIQ — Food Delivery Analytics**](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics) | Surfaced revenue power-law + restaurant supply gaps across states | 197K orders · Fabric pipeline · 10 SQL modules | Fabric · T-SQL · Power BI · Python |
 | [**Walmart Sales Analytics**](https://github.com/seema-kri/walmart-sales-analytics) | Found $59M regional gap + $367M untapped B2B channel | 550K rows · $764M revenue · star schema | Python · PostgreSQL · Power BI · DAX |
-| [**Pharma A/B Test**](https://github.com/seema-kri/pharma-ab-testing) | Recommended shipping Treatment B — +58% conversion lift (p = 0.00027) | 1K users · Z-test · full funnel breakdown | Python · scipy · Jupyter |
+| [**Pharma A/B Test**](https://github.com/seema-kri/AB-testing-pharma-app) | Recommended shipping Treatment B — +58% conversion lift (p = 0.00027) | 1K users · Z-test · full funnel breakdown | Python · scipy · Jupyter |
 | [**EVision — EV Market Intelligence**](https://github.com/seema-kri/EVision-Analytics-EV-Market-Intelligence) | Delivered 5 market insights for policy + investment decisions | 279K records · full ETL | Python · PostgreSQL · Power BI |
 
 ---
