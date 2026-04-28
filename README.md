@@ -1,8 +1,7 @@
 # Seema Kumari
 
 > Data Analyst · BI Engineer · Analytics Engineer
-> FAANG-ready analytics portfolio focused on measurable business impact
-
+> 
 ---
 
 ## 🔗 Connect
