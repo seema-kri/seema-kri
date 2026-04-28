@@ -1,113 +1,60 @@
 <h1 align="center">Seema Kumari</h1>
 
 <p align="center">
-  <b>Data Analyst · BI Engineer · Analytics Engineer</b>
+  Data Analyst · SQL · Python · Power BI · Microsoft Fabric
 </p>
 
 <p align="center">
-  Turning data into measurable business impact
+  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> ·
+  <a href="mailto:seemakri136@gmail.com">Email</a> ·
+  <a href="https://github.com/seema-kri">GitHub</a>
 </p>
 
 ---
 
-## 🔗 Connect
+## Impact
 
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seema-kumari-375763308/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/seema-kri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seemakri136@gmail.com)
-
-</p>
+- Analyzed **$764M+ revenue** across retail datasets  
+- Built **4 end-to-end data pipelines** (ETL → warehouse → BI)  
+- Processed **1M+ records** across multiple domains  
+- Delivered **+58% conversion lift** via A/B testing *(p = 0.00027)*  
 
 ---
 
-## ⚡ Impact
+## Projects
 
-<p align="center">
-  <b>$764M+</b> revenue analyzed • <b>1M+</b> rows processed • <b>+58%</b> conversion lift • <b>4</b> production pipelines
-</p>
+**Walmart BI Platform — Revenue Intelligence**  
+- Built full pipeline (Python → PostgreSQL → Power BI) on **550K+ rows ($764M)**  
+- Identified **$59M regional gap** + **$367M B2B opportunity**  
+- Recommended strategy with **3–5% revenue uplift ($8M–$12M)**  
 
----
+**OrderIQ — Food Delivery Analytics (Microsoft Fabric)**  
+- Engineered **Bronze → Silver → Gold pipeline** on **197K+ orders**  
+- Found **40–50% revenue driven by premium orders**  
+- Identified supply-demand gaps → expansion opportunities  
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-### Walmart Revenue Intelligence
-
-* $59M gap identified
-* $367M opportunity detected
-* +$8M–$12M projected uplift
-
-### OrderIQ (Microsoft Fabric)
-
-* 197K+ orders analyzed
-* 40–50% revenue from premium segment
-* Medallion architecture pipeline
-
-### A/B Testing (Pharma)
-
-* +58% conversion improvement
-* Statistically significant (p < 0.001)
-* Production rollout recommendation
+**Pharma A/B Test — Conversion Analysis**  
+- Ran statistical experiment on **1,000 users**  
+- Delivered **+58% conversion lift** with high significance  
+- Provided rollout recommendation with revenue impact  
 
 ---
 
-## 🧠 Tech Stack
+## Skills
 
-<p align="center">
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-</p>
+**Data:** SQL · PostgreSQL · Data Modeling · ETL  
+**Analytics:** Python · Pandas · Statistics · A/B Testing  
+**BI:** Power BI · DAX · Microsoft Fabric  
+**Tools:** Git · Azure · Excel  
 
 ---
 
-## 🧭 Engineering Philosophy
+## Approach
 
 ```python
-def analytics_engineering(problem):
-    data = extract(problem)
-    data = transform(data)
-    insights = analyze(data)
-    return decision(insights, impact="measurable business value")
-```
-
----
-
-## 🎯 Focus Areas
-
-* Data Analytics & BI Engineering
-* Data Modeling & Warehousing
-* A/B Testing & Experimentation
-* Revenue Optimization Systems
-
----
-
-## 📌 Status
-
-<p align="center">
-🟢 Open to roles: Data Analyst · BI Analyst · Analytics Engineer (Global)
-</p>
-
----
-
-<p align="center">
-<b>Built for impact • Designed for decisions • Optimized for scale</b>
-</p>
-
+def solve(problem):
+    return pipeline(
+        question="business-first thinking",
+        steps=["clean", "model", "analyze", "visualize"],
+        output="decision with measurable impact"
+    )
