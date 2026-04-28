@@ -7,9 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> ·
   <a href="mailto:seemakri136@gmail.com">Email</a> ·
-  <a href="https://github.com/seema-kri">GitHub</a>
+  <a href="https://github.com/seema-kri">GitHub</a> ·
+  <a href="https://leetcode.com/u/seemakri136/">LeetCode</a> ·
+  <a href="https://www.hackerrank.com/profile/seemakri136">HackerRank</a>
 </p>
-
 ---
 
 ## Impact
