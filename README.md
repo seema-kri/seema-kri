@@ -8,12 +8,6 @@
   Turning data into measurable business impact
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Business%20Impact-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analytics-FAANG%20Ready-2962FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Top%201%25-FF6D00?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🔗 Connect
