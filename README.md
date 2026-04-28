@@ -12,51 +12,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seema-kri\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🔥 Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seema-kri\&theme=tokyonight\&hide_border=true)
-
----
-
 ## ⚡ Impact (Business-Focused)
 
 * $764M+ revenue analyzed across enterprise datasets
 * 1M+ records processed through scalable pipelines
 * +58% conversion uplift (A/B testing, p < 0.001)
 * 4 end-to-end analytics systems (ETL → Warehouse → BI)
-
----
-
-## 🚀 Featured Projects
-
-### Walmart Revenue Intelligence
-
-* Built pipeline: Python → PostgreSQL → Power BI
-* 550K+ records analyzed
-* Identified $59M regional gap + $367M opportunity
-* Delivered +$8M–$12M projected revenue uplift
-
-### OrderIQ — Food Analytics (Microsoft Fabric)
-
-* Medallion architecture (Bronze → Silver → Gold)
-* 197K+ orders analyzed
-* 40–50% revenue from premium segment
-* Optimized supply-demand efficiency
-
-### Pharma A/B Testing
-
-* Experiment design (n=1,000 users)
-* +58% conversion improvement
-* Statistically significant (p < 0.001)
-* Production rollout recommendation
 
 ---
 
