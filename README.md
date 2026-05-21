@@ -1,62 +1,65 @@
 <h1 align="center">Seema Kumari</h1>
-
 <p align="center">
-  Data Analyst · SQL · Python · Power BI · Microsoft Fabric
+  Data Analyst · BI Engineer · Python · SQL · Power BI · Microsoft Fabric
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> ·
   <a href="mailto:seemakri136@gmail.com">Email</a> ·
-  <a href="https://github.com/seema-kri">GitHub</a> ·
   <a href="https://leetcode.com/u/seemakri136/">LeetCode</a> ·
   <a href="https://www.hackerrank.com/profile/seemakri136">HackerRank</a>
 </p>
 
 ---
 
-## Impact
+I build data pipelines and dashboards that help businesses find money they're leaving on the table.
 
-- Analyzed **$764M+ revenue** across retail datasets  
-- Built **4 end-to-end data pipelines** (ETL → warehouse → BI)  
-- Processed **1M+ records** across multiple domains  
-- Delivered **+58% conversion lift** via A/B testing *(p = 0.00027)*  
+Currently interning at **Bosch Chassis Systems** (Pune) — analyzing production data for the NOAH Booster Assembly line using Power BI. Previously at **Infosys Springboard**, where I segmented 9,668 users and automated stakeholder reporting.
+
+---
+
+## Numbers that matter
+
+| | |
+|---|---|
+| 💰 Revenue analyzed | $764M+ across retail datasets |
+| 📦 Records processed | 550K+ transactions · 197K+ orders |
+| 📈 Conversion lift | +58% via A/B testing *(p = 0.00027)* |
+| 🔍 Opportunities surfaced | $59M regional gap · $367M B2B potential |
+| 🏗️ Pipelines shipped | 4 end-to-end (ETL → warehouse → dashboard) |
 
 ---
 
 ## Projects
 
-**Walmart BI Platform — Revenue Intelligence**  
-- Built full pipeline (Python → PostgreSQL → Power BI) on **550K+ rows ($764M)**  
-- Identified **$59M regional gap** + **$367M B2B opportunity**  
-- Recommended strategy with **3–5% revenue uplift ($8M–$12M)**  
+**[Walmart BI Platform](https://github.com/seema-kri)** `Python · PostgreSQL · Power BI`  
+Full pipeline on 550K+ rows ($764M revenue) — identified $59M regional gap, $367M B2B opportunity, and $8–12M revenue uplift strategy.
 
-**OrderIQ — Food Delivery Analytics (Microsoft Fabric)**  
-- Engineered **Bronze → Silver → Gold pipeline** on **197K+ orders**  
-- Found **40–50% revenue driven by premium orders**  
-- Identified supply-demand gaps → expansion opportunities  
+**[OrderIQ — Food Delivery Analytics](https://github.com/seema-kri)** `Microsoft Fabric · T-SQL · Power BI`  
+Bronze → Silver → Gold ETL pipeline on 197K+ orders. Found 40–50% revenue concentration in premium orders; mapped supply-demand gaps for expansion.
 
-**Pharma A/B Test — Conversion Analysis**  
-- Ran statistical experiment on **1,000 users**  
-- Delivered **+58% conversion lift** with high significance  
-- Provided rollout recommendation with revenue impact  
+**[Pharma A/B Test](https://github.com/seema-kri)** `Python · SciPy · Statistical Testing`  
+Two-proportion Z-test on 1,000 users. +58% conversion lift (p = 0.00027). Full funnel + segmentation analysis with rollout recommendation.
 
 ---
 
-## Skills
+## Stack
 
-**Data:** SQL · PostgreSQL · Data Modeling · ETL  
-**Analytics:** Python · Pandas · Statistics · A/B Testing  
-**BI:** Power BI · DAX · Microsoft Fabric  
-**Tools:** Git · Azure · Excel  
+```text
+Languages   Python · SQL (PostgreSQL · MySQL · T-SQL)
+BI          Power BI · DAX · Microsoft Fabric · Excel
+Analytics   Pandas · Scikit-learn · SciPy · A/B Testing · Statistics
+Infra       Azure AZ-900 · Git · Lakehouse · Data Warehouse · Star Schema
+```
 
 ---
 
-## Approach
+## Certifications & Recognition
 
-```python
-def solve(problem):
-    return pipeline(
-        question="business-first thinking",
-        steps=["clean", "model", "analyze", "visualize"],
-        output="decision with measurable impact"
-    )
+- 🏅 **Siemens Scholar** — Top 298 nationwide
+- 🌟 **Infosys STEM Stars Scholar** — Top 500 nationwide  
+- 📜 Applied Statistics · Generative AI — DeepLearning.AI
+- 📜 SQL Advanced — HackerRank · 100+ problems solved
+
+---
+
+*Open to Data Analyst · BI Analyst · Product Analytics · Data Science roles.*
