@@ -37,7 +37,7 @@ Full pipeline on 550K+ rows ($764M revenue) — identified $59M regional gap, $3
 **[OrderIQ — Food Delivery Analytics](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics)** `Microsoft Fabric · T-SQL · Power BI`  
 Bronze → Silver → Gold ETL pipeline on 197K+ orders. Found 40–50% revenue concentration in premium orders; mapped supply-demand gaps for expansion.
 
-**[Pharma A/B Test](https://github.com/seema-kri)** `Python · SciPy · Statistical Testing`  
+**[Pharma A/B Test](https://github.com/seema-kri/AB-testing-pharma-app)** `Python · SciPy · Statistical Testing`  
 Two-proportion Z-test on 1,000 users. +58% conversion lift (p = 0.00027). Full funnel + segmentation analysis with rollout recommendation.
 
 ---
