@@ -31,7 +31,7 @@ Currently interning at **Bosch Chassis Systems** (Pune) — analyzing production
 
 ## Projects
 
-**[Walmart BI Platform](https://github.com/seema-kri)** `Python · PostgreSQL · Power BI`  
+**[Walmart BI Platform](https://github.com/seema-kri/Walmart-BI-Platform-Revenue-Intelligence-Decision-System)** `Python · PostgreSQL · Power BI`  
 Full pipeline on 550K+ rows ($764M revenue) — identified $59M regional gap, $367M B2B opportunity, and $8–12M revenue uplift strategy.
 
 **[OrderIQ — Food Delivery Analytics](https://github.com/seema-kri/OrderIQ-Food-Delivery-Analytics)** `Microsoft Fabric · T-SQL · Power BI`  
