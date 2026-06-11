@@ -65,12 +65,6 @@ I work across the full stack: **data cleaning → ETL → warehousing → SQL an
 
 ---
 
-**☁️ [Bosch Manufacturing KPI Dashboard](https://github.com/seema-kri)** — Azure Databricks + Power BI dashboard analyzing manufacturing data and operational KPIs during internship at Bosch Chassis Systems, Pune.
-
-`Azure Databricks` `SQL` `Power BI` `DAX` `Manufacturing Analytics`
-
----
-
 ### Tech stack
 
 ```text
