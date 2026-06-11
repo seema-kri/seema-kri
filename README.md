@@ -59,12 +59,6 @@ I work across the full stack: **data cleaning → ETL → warehousing → SQL an
 
 ---
 
-**💊 [Pharma A/B Testing Analysis](https://github.com/seema-kri/AB-testing-pharma-app)** — Statistical A/B test on 1,000+ users delivering +58% conversion uplift (p = 0.00027).
-
-`Python` `Pandas` `SciPy` `Matplotlib` `A/B Testing`
-
----
-
 ### Tech stack
 
 ```text
@@ -94,9 +88,4 @@ Cloud        Azure Databricks · Azure (Bosch internship)
   <a href="https://www.linkedin.com/in/seema-kumari-375763308/">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/seema-kri">🐙 GitHub</a>
 </p>
-<p align="center">
-  <i>Open to Data Analyst · BI Analyst · Product Analytics · Data Science internship and entry-level roles</i><br/><br/>
-  <a href="mailto:kriseema87@gmail.com">📧 kriseema87@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/seema-kri">🐙 GitHub</a>
-</p>
+
