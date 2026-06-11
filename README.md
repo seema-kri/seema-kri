@@ -41,60 +41,33 @@ I work across the full stack: **data cleaning → ETL → warehousing → SQL an
 
 ### Featured projects
 
-#### 🛒 Walmart Revenue Intelligence Platform
-> Production-grade BI platform on 550K+ transactions ($764M revenue) — uncovering regional gaps and B2B growth opportunities.
-
-- 🔎 Identified **$59M regional revenue gap** (Central $221M vs West $162M)
-- 💼 Discovered **$367M untapped B2B opportunity** in Corporate segment  
-- 🗄️ Built star schema (1 fact + 4 dims), 15 SQL queries with CTEs & window functions
-- 📊 3-page executive dashboard with 20+ DAX measures
+**🛒 [Walmart Revenue Intelligence Platform](https://github.com/seema-kri/Walmart-Revenue-Intelligence-Platform)** — Production-grade BI on 550K+ transactions uncovering a $59M regional gap and $367M B2B opportunity. &nbsp;[![Live](https://img.shields.io/badge/🔴_Live-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/b66cc09b-b7c4-4676-9bf6-54cf24d56d3c/ee0949fc773744310c19?experience=power-bi)
 
 `Python` `PostgreSQL` `SQLAlchemy` `Power BI` `DAX` `Star Schema`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri/Walmart-Revenue-Intelligence-Platform)
-[![Live Dashboard](https://img.shields.io/badge/🔴%20Live%20Dashboard-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/b66cc09b-b7c4-4676-9bf6-54cf24d56d3c/ee0949fc773744310c19?experience=power-bi)
+---
+
+**🏦 [Consumer Complaint Intelligence Platform](https://github.com/seema-kri/Consumer-Complaint-Intelligence-Risk-Analytics-Platform)** — Risk analytics on 62K financial complaints identifying California as 2.1× highest-risk state. &nbsp;[![Live](https://img.shields.io/badge/🔴_Live-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/d8338132-ed69-4cdf-8f4d-465d75ab7989/c0ffc13bdca1d94090b4?experience=power-bi) &nbsp;[![Dataset](https://img.shields.io/badge/Dataset-Maven_Analytics-6C4EE4?style=flat-square&logo=databricks&logoColor=white)](https://app.mavenanalytics.io/datasets?search=finan)
+
+`Python` `PostgreSQL` `SQL` `Power BI` `Excel`
 
 ---
 
-#### 🏦 Consumer Complaint Intelligence Platform
-> Risk analytics platform on 62,516 financial complaints (2017–2023) identifying product risk and geographic hotspots.
+**🚀 [Food Delivery Analytics Warehouse](https://github.com/seema-kri/Food-Delivery-Analytics-Warehouse)** — Microsoft Fabric warehouse on 197K+ orders (₹53M) with automated ETL and Power BI dashboards.
 
-- 🗺️ Flagged **California as 2.1× higher risk** than any other state
-- ⚠️ Top 2 products drive **66% of all complaints** — enabling focused resource allocation
-- ✅ 93.77% timely response rate benchmarked vs 90% industry standard
-- 🔎 Interactive dashboard with State / Product / Year filters
-
-`Python` `PostgreSQL` `SQL` `Power BI` `Excel` `Risk Analytics`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri/Consumer-Complaint-Intelligence-Risk-Analytics-Platform)
-[![Live Dashboard](https://img.shields.io/badge/🔴%20Live%20Dashboard-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/d8338132-ed69-4cdf-8f4d-465d75ab7989/c0ffc13bdca1d94090b4?experience=power-bi)
-[![Dataset](https://img.shields.io/badge/Dataset-Maven%20Analytics-6C4EE4?style=flat-square&logo=databricks&logoColor=white)](https://app.mavenanalytics.io/datasets?search=finan)
+`Microsoft Fabric` `Python` `SQL` `Power BI` `ETL`
 
 ---
 
-#### 🚀 Food Delivery Analytics Warehouse
-> Microsoft Fabric data warehouse on 197K+ orders (₹53M revenue) with automated ETL and Power BI dashboards.
+**💊 [Pharma A/B Testing Analysis](https://github.com/seema-kri/AB-testing-pharma-app)** — Statistical A/B test on 1,000+ users delivering +58% conversion uplift (p = 0.00027).
 
-- ⚙️ Automated ETL pipeline ingesting multi-source delivery data
-- 🏗️ Built dimensional model optimized for analytical workloads
-- 📊 Delivered operational KPIs for delivery performance and revenue trends
-
-`Microsoft Fabric` `Python` `SQL` `Power BI` `ETL` `Data Warehousing`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri/Food-Delivery-Analytics-Warehouse)
+`Python` `Pandas` `SciPy` `Matplotlib` `A/B Testing`
 
 ---
 
-#### 💊 Pharma A/B Testing Analysis
-> Statistical A/B testing on 1,000+ users for a pharmaceutical app — delivering significant, actionable results.
+**☁️ [Bosch Manufacturing KPI Dashboard](https://github.com/seema-kri)** — Azure Databricks + Power BI dashboard analyzing manufacturing data and operational KPIs during internship at Bosch Chassis Systems, Pune.
 
-- 📈 Achieved **+58% conversion uplift** — p-value 0.00027 (highly significant)
-- 📐 Applied hypothesis testing, confidence intervals, and effect size analysis
-- 📋 Delivered evidence-backed product recommendations
-
-`Python` `Pandas` `SciPy` `Matplotlib` `Statistics` `A/B Testing`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/seema-kri/AB-testing-pharma-app)
+`Azure Databricks` `SQL` `Power BI` `DAX` `Manufacturing Analytics`
 
 ---
 
@@ -106,7 +79,7 @@ BI & Viz     Power BI · DAX · Matplotlib · Seaborn
 Databases    PostgreSQL · Microsoft Fabric
 Libraries    Pandas · NumPy · SciPy · SQLAlchemy
 Skills       ETL · Data Warehousing · Star Schema · A/B Testing · KPI Design
-Cloud        Azure Databricks
+Cloud        Azure Databricks · Azure (Bosch internship)
 ```
 
 ---
@@ -121,6 +94,12 @@ Cloud        Azure Databricks
 
 ---
 
+<p align="center">
+  <i>Open to Data Analyst · BI Analyst · Product Analytics · Data Science internship and entry-level roles</i><br/><br/>
+  <a href="mailto:kriseema87@gmail.com">📧 kriseema87@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/seema-kri">🐙 GitHub</a>
+</p>
 <p align="center">
   <i>Open to Data Analyst · BI Analyst · Product Analytics · Data Science internship and entry-level roles</i><br/><br/>
   <a href="mailto:kriseema87@gmail.com">📧 kriseema87@gmail.com</a> &nbsp;·&nbsp;
