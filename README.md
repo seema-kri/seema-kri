@@ -65,6 +65,15 @@ Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue g
 </td>
 <td width="50%" valign="top">
 
+**💊 [Pharma A/B Testing Analysis](https://github.com/seema-kri)**
+
+Z-test on **1,000+ users** — confirmed **58% conversion lift (p = 0.00027)**, directly informing product rollout.
+
+`Python` `SciPy` `Statistical Testing`
+
+</td>
+</tr>
+</table>
 
 <p align="center"><a href="https://github.com/seema-kri?tab=repositories">🌐 View all repositories →</a></p>
 
@@ -98,6 +107,18 @@ Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue g
   <img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced%20Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/100%2B%20Problems%20Solved-LeetCode%20%2B%20HackerRank-blue?style=flat-square" />
 </p>
+
+<br>
+
+### 🏆 Achievements & Certifications
+
+🎓 **Siemens Scholar** — Top 298 students nationwide
+🎓 **Infosys STEM Stars Scholar** — Top 500 students nationwide
+✅ **HackerRank SQL (Advanced)** Certified
+✅ **Microsoft Azure Cloud Services** Certified
+✅ **Applied Statistics for Data Analytics** Certified
+
+<br>
 
 ### 🎓 Education
 
