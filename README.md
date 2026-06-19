@@ -36,20 +36,20 @@
 <tr>
 <td width="50%" valign="top">
 
-**🛒 [Walmart Revenue Intelligence](https://github.com/seema-kri/Walmart-Revenue-Intelligence-Platform)**
+**🛒 [Walmart Revenue Intelligence](https://github.com/seema-kri/walmart-revenue-intelligence-platform)**
 
-Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue gap** and **$367M B2B opportunity**.
+Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue gap** and a **$367M B2B opportunity**.
 
 `SQL` `Python` `Power BI`
 
 </td>
 <td width="50%" valign="top">
 
-**🍕 [Food Delivery Analytics Warehouse](https://github.com/seema-kri/Food-Delivery-Analytics-Warehouse)**
+**⚡ [EVision: EV Market Intelligence](https://github.com/seema-kri/ev-market-intelligence)**
 
-**197K+ orders** across 10 cities — flagged ~50% revenue concentration risk; built 5 ETL pipelines cutting refresh time **~60%**.
+**279K+ EV registrations** analyzed end-to-end — proved charging infrastructure, not demand, is the real adoption bottleneck.
 
-`Microsoft Fabric` `T-SQL` `Power BI`
+`Python` `PostgreSQL` `Power BI`
 
 </td>
 </tr>
@@ -58,18 +58,18 @@ Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue g
 
 **🏦 [Consumer Complaint Risk Analytics](https://github.com/seema-kri/Consumer-Complaint-Intelligence-Risk-Analytics-Platform)**
 
-**62,516 complaints** analyzed — flagged 2 product categories driving **65.6%** of risk, with state-level dashboard.
+**62,516 complaints** analyzed — flagged 2 product categories driving **65.6%** of risk, with a state-level risk dashboard.
 
 `SQL` `Python` `Power BI`
 
 </td>
 <td width="50%" valign="top">
 
-**💊 [Pharma A/B Testing Analysis](https://github.com/seema-kri)**
+**🍕 [Swiggy Food Delivery Analytics](https://github.com/seema-kri/swiggy-food-delivery-analytics)**
 
-Z-test on **1,000+ users** — confirmed **58% conversion lift (p = 0.00027)**, directly informing product rollout.
+**197K+ orders** across 10+ cities on a Microsoft Fabric Lakehouse → Warehouse pipeline — flagged ~28% partner-concentration risk.
 
-`Python` `SciPy` `Statistical Testing`
+`Microsoft Fabric` `T-SQL` `Power BI`
 
 </td>
 </tr>
@@ -108,24 +108,10 @@ Z-test on **1,000+ users** — confirmed **58% conversion lift (p = 0.00027)**, 
   <img src="https://img.shields.io/badge/100%2B%20Problems%20Solved-LeetCode%20%2B%20HackerRank-blue?style=flat-square" />
 </p>
 
-<br>
-
-### 🏆 Achievements & Certifications
-
-🎓 **Siemens Scholar** — Top 298 students nationwide
-🎓 **Infosys STEM Stars Scholar** — Top 500 students nationwide
-✅ **HackerRank SQL (Advanced)** Certified
-✅ **Microsoft Azure Cloud Services** Certified
-✅ **Applied Statistics for Data Analytics** Certified
-
-<br>
-
 ### 🎓 Education
 
-**B.Tech, Mechanical Engineering** — National Institute of Technology Agartala — CGPA 7.66/10 *(2023–2027)*
+**B.Tech, Mechanical Engineering** — National Institute of Technology Agartala  *(2023–2027)*
 
 <br>
 
 ### 🎯 Open to: Data Analyst · BI Analyst · Operations Analytics roles
-
-<p align="center"><sub><b>Data → Insight → Decision</b></sub></p>
