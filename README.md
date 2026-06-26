@@ -48,15 +48,13 @@ Turning data into actionable business insights.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🛒 Walmart Revenue Intelligence
 
 Analyzed **550K+ transactions worth $764M** to uncover a **$59M regional revenue gap** and identify a **$367M B2B growth opportunity** using SQL, Python, and Power BI.
 
-**Tech Stack**
-
+**Tech Stack**  
 `SQL` `Python` `Power BI`
 
 🔗 https://github.com/seema-kri/walmart-revenue-intelligence-platform
@@ -69,14 +67,12 @@ Analyzed **550K+ transactions worth $764M** to uncover a **$59M regional revenue
 
 Built an end-to-end analytics solution on **279K+ EV registrations** to identify market trends and show that **charging infrastructure—not demand—is the key adoption bottleneck.**
 
-**Tech Stack**
-
+**Tech Stack**  
 `Python` `PostgreSQL` `Power BI`
 
 🔗 https://github.com/seema-kri/ev-market-intelligence
 
 </td>
-
 </tr>
 </table>
 
@@ -89,77 +85,38 @@ Built an end-to-end analytics solution on **279K+ EV registrations** to identify
 # 🛠️ Tech Stack
 
 ### Languages & Databases
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
 
-</p>
-
 ### Analytics & BI
-
-<p>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-</p>
-
 ### Python Libraries
-
-<p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</p>
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&hide_border=true&count_private=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&hide_border=true"/>
-
 </p>
-
----
-
-# 🏆 Achievements
-
-✔ Data Analytics Intern — Bosch
-
-✔ Data Visualization Intern — Infosys Springboard
-
-✔ SQL (Advanced) — HackerRank
-
-✔ 100+ SQL & Programming Problems Solved
 
 ---
 
 # 🎓 Education
 
-**National Institute of Technology Agartala**
-
-**Bachelor of Technology (Mechanical Engineering)**
-
+**National Institute of Technology Agartala**  
+**Bachelor of Technology (Mechanical Engineering)**  
 **2023 – 2027**
 
 ---
@@ -186,5 +143,5 @@ Built an end-to-end analytics solution on **279K+ EV registrations** to identify
 
 <p align="center">
 ⭐ <b>Thanks for visiting my GitHub profile!</b><br>
-Let's connect, collaborate, and build data-driven solutions together.
+Let's connect and build data-driven solutions together.
 </p>
