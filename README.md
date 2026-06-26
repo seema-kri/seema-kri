@@ -1,95 +1,126 @@
 <h1 align="center">Hi 👋, I'm Seema Kumari</h1>
 
-<h3 align="center">Data Analyst | SQL • Power BI • Python • Microsoft Fabric</h3>
+<h3 align="center">Data Analyst | SQL • Power BI • Python • Azure • Microsoft Fabric</h3>
 
 <p align="center">
-Turning data into actionable business insights.
+I transform raw data into strategic business decisions and measurable impact.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:kriseema87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:kriseema87@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/seema-kri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/seema-kumari-375763308/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/u/seemakri136/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+<a href="https://github.com/seema-kri">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.hackerrank.com/profile/seemakri136">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 🧠 Professional Summary
 
-🎓 Final Year B.Tech Mechanical Engineering Student at **National Institute of Technology Agartala**
+🎓 Final Year B.Tech (Mechanical Engineering) — NIT Agartala  
 
-💼 Data Analytics Intern at **Bosch Chassis Systems India Pvt. Ltd.**
+💼 Data Analytics Intern — Bosch Chassis Systems India Pvt. Ltd.  
 
-📊 Former Data Visualization Intern at **Infosys Springboard**
+📊 Data Visualization Intern — Infosys Springboard  
 
-💡 Passionate about solving business problems using SQL, Python, Power BI, and Microsoft Fabric.
-
-🚀 Currently exploring Data Engineering, Cloud Analytics, and advanced SQL.
+📌 Focus Areas:
+- Business Intelligence & Dashboards  
+- Data Modeling & Reporting  
+- SQL-based Data Analysis  
+- Cloud Analytics (Azure + Fabric)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Core Expertise
+
+✔ SQL for Data Analysis (Joins, CTEs, Window Functions)  
+✔ Power BI Dashboard Design & KPI Reporting  
+✔ Python for Data Analysis (Pandas, NumPy)  
+✔ Data Cleaning, Transformation & EDA  
+✔ Business Insight Generation  
+✔ Data Storytelling for Stakeholders  
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛒 Walmart Revenue Intelligence
+### 🛒 Walmart Revenue Intelligence Platform  
+End-to-end analytics project analyzing **550K+ transactions worth $764M** to identify:
+- $59M regional revenue gap  
+- $367M untapped B2B opportunity  
+- Key sales performance drivers  
 
-Analyzed **550K+ transactions worth $764M** to uncover a **$59M regional revenue gap** and identify a **$367M B2B growth opportunity** using SQL, Python, and Power BI.
+**Tech Stack:** SQL • Python • Power BI  
 
-**Tech Stack**  
-`SQL` `Python` `Power BI`
-
-🔗 https://github.com/seema-kri/walmart-revenue-intelligence-platform
+🔗 GitHub: https://github.com/seema-kri/walmart-revenue-intelligence-platform  
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ EVision – EV Market Intelligence
+### ⚡ EVision – EV Market Intelligence  
+Analyzed **279K+ EV registrations** to uncover:
+- EV adoption trends  
+- Infrastructure bottlenecks  
+- Demand vs charging gap insights  
 
-Built an end-to-end analytics solution on **279K+ EV registrations** to identify market trends and show that **charging infrastructure—not demand—is the key adoption bottleneck.**
+**Tech Stack:** Python • PostgreSQL • Power BI  
 
-**Tech Stack**  
-`Python` `PostgreSQL` `Power BI`
-
-🔗 https://github.com/seema-kri/ev-market-intelligence
+🔗 GitHub: https://github.com/seema-kri/ev-market-intelligence  
 
 </td>
+
 </tr>
 </table>
 
+---
+
+## 🛠️ Tech Stack (Data Analytics Focused)
+
 <p align="center">
-<a href="https://github.com/seema-kri?tab=repositories"><b>📂 View All Projects →</b></a>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure" />
+
+<img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Cloud%20Analytics-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-Data%20Insights-4B8BBE?style=for-the-badge"/>
+
 </p>
 
 ---
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> </p>
+## 📊 Data Impact Philosophy
+
+> “Good data is not about numbers — it’s about decisions, clarity, and business impact.”
+
+✔ I focus on KPI-driven dashboards  
+✔ I convert raw datasets into business insights  
+✔ I build reports that drive decisions, not just visuals  
+
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&hide_border=true&count_private=true&theme=default"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&hide_border=true"/>
 </p>
 
@@ -99,28 +130,32 @@ Built an end-to-end analytics solution on **279K+ EV registrations** to identify
 
 ---
 
-# 🎓 Education
+## 🎯 Career Focus
 
-**National Institute of Technology Agartala**  
-**Bachelor of Technology (Mechanical Engineering)**  
-**2023 – 2027**
+📌 Data Analyst / BI Analyst / Analytics Engineer roles  
+📌 Interested in SQL-heavy analytics + dashboarding roles  
+📌 Exploring Data Engineering & Cloud Data Platforms  
 
 ---
 
-# 📫 Connect With Me
+## 🎓 Education
+
+**National Institute of Technology Agartala**  
+Bachelor of Technology (Mechanical Engineering)  
+2023 – 2027  
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
 
 <a href="mailto:kriseema87@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/seema-kumari-375763308/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/seema-kri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge"/>
 </a>
 
 </p>
@@ -128,6 +163,6 @@ Built an end-to-end analytics solution on **279K+ EV registrations** to identify
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my GitHub profile!</b><br>
-Let's connect and build data-driven solutions together.
+🔥 <b>Thanks for visiting!</b><br>
+I’m open to Data Analyst / BI / Analytics roles where I can drive real business impact.
 </p>
