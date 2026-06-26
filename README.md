@@ -1,117 +1,190 @@
-<h1 align="center">Hi, I'm Seema Kumari 👋</h1>
-<h3 align="center">Data Analyst &nbsp;|&nbsp; SQL · Power BI · Python · Excel</h3>
+<h1 align="center">Hi 👋, I'm Seema Kumari</h1>
+
+<h3 align="center">Data Analyst | SQL • Power BI • Python • Microsoft Fabric</h3>
+
+<p align="center">
+Turning data into actionable business insights.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seema-kumari-375763308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:kriseema87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/seema-kri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://leetcode.com/u/seemakri136/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+
   <a href="https://www.hackerrank.com/profile/seemakri136">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
-<p align="center"><i>Final-year engineer turning operational data into decisions leadership teams act on.</i></p>
+---
 
-<br>
+# 👩‍💻 About Me
 
-### 📌 Currently
+🎓 Final Year B.Tech Mechanical Engineering Student at **National Institute of Technology Agartala**
 
-🏭 **Data Analytics Intern, Bosch Chassis Systems** — SQL analysis on NOAH Booster Assembly Line; identified 3 bottlenecks, cut reporting-prep time 40%
-🧠 **Previously:** Data Visualization Intern, Infosys Springboard — cohort analysis on 9,668 users, replaced manual reporting with self-service Power BI dashboard
+💼 Data Analytics Intern at **Bosch Chassis Systems India Pvt. Ltd.**
 
-<br>
+📊 Former Data Visualization Intern at **Infosys Springboard**
 
-### 🚀 Featured Projects
+💡 Passionate about solving business problems using SQL, Python, Power BI, and Microsoft Fabric.
+
+🚀 Currently exploring Data Engineering, Cloud Analytics, and advanced SQL.
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🛒 [Walmart Revenue Intelligence](https://github.com/seema-kri/walmart-revenue-intelligence-platform)**
+### 🛒 Walmart Revenue Intelligence
 
-Analyzed **550K+ transactions ($764M)** — surfaced a **$59M regional revenue gap** and a **$367M B2B opportunity**.
+Analyzed **550K+ transactions worth $764M** to uncover a **$59M regional revenue gap** and identify a **$367M B2B growth opportunity** using SQL, Python, and Power BI.
+
+**Tech Stack**
 
 `SQL` `Python` `Power BI`
 
+🔗 https://github.com/seema-kri/walmart-revenue-intelligence-platform
+
 </td>
+
 <td width="50%" valign="top">
 
-**⚡ [EVision: EV Market Intelligence](https://github.com/seema-kri/ev-market-intelligence)**
+### ⚡ EVision – EV Market Intelligence
 
-**279K+ EV registrations** analyzed end-to-end — proved charging infrastructure, not demand, is the real adoption bottleneck.
+Built an end-to-end analytics solution on **279K+ EV registrations** to identify market trends and show that **charging infrastructure—not demand—is the key adoption bottleneck.**
+
+**Tech Stack**
 
 `Python` `PostgreSQL` `Power BI`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏦 [Consumer Complaint Risk Analytics](https://github.com/seema-kri/Consumer-Complaint-Intelligence-Risk-Analytics-Platform)**
-
-**62,516 complaints** analyzed — flagged 2 product categories driving **65.6%** of risk, with a state-level risk dashboard.
-
-`SQL` `Python` `Power BI`
+🔗 https://github.com/seema-kri/ev-market-intelligence
 
 </td>
-<td width="50%" valign="top">
 
-**🍕 [Swiggy Food Delivery Analytics](https://github.com/seema-kri/swiggy-food-delivery-analytics)**
-
-**197K+ orders** across 10+ cities on a Microsoft Fabric Lakehouse → Warehouse pipeline — flagged ~28% partner-concentration risk.
-
-`Microsoft Fabric` `T-SQL` `Power BI`
-
-</td>
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/seema-kri?tab=repositories">🌐 View all repositories →</a></p>
-
-<br>
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<p align="center">
+<a href="https://github.com/seema-kri?tab=repositories"><b>📂 View All Projects →</b></a>
 </p>
 
-<br>
+---
 
-### 📈 GitHub & Coding Stats
+# 🛠️ Tech Stack
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&hide_border=true" />
-</p>
+### Languages & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solver-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced%20Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/100%2B%20Problems%20Solved-LeetCode%20%2B%20HackerRank-blue?style=flat-square" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
+
 </p>
 
-### 🎓 Education
+### Analytics & BI
 
-**B.Tech, Mechanical Engineering** — National Institute of Technology Agartala  *(2023–2027)*
+<p>
 
-<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### 🎯 Open to: Data Analyst · BI Analyst · Operations Analytics roles
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+### Python Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+✔ Data Analytics Intern — Bosch
+
+✔ Data Visualization Intern — Infosys Springboard
+
+✔ SQL (Advanced) — HackerRank
+
+✔ 100+ SQL & Programming Problems Solved
+
+---
+
+# 🎓 Education
+
+**National Institute of Technology Agartala**
+
+**Bachelor of Technology (Mechanical Engineering)**
+
+**2023 – 2027**
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kriseema87@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seema-kumari-375763308/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/seema-kri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Thanks for visiting my GitHub profile!</b><br>
+Let's connect, collaborate, and build data-driven solutions together.
+</p>
