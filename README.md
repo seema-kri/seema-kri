@@ -13,15 +13,19 @@ I turn raw, messy data into business insights and decision-ready dashboards — 
 
 ---
 
-### ⚡ Summary
+## ⚡ Summary
 
-🎓 B.Tech, Mechanical Engineering — NIT Agartala (2023–2027)
-💼 Data Analytics Intern — **Bosch Chassis Systems India**, Pune
-💼 Data Visualization Intern — **Infosys Springboard**
-📊 Focus — SQL · Power BI · Python · ETL Pipelines · Microsoft Fabric
+🎓 **B.Tech in Mechanical Engineering**  
+**NIT Agartala** (2023–2027)
 
-I like projects that don't stop at a chart — I dig until I can say *here's the number, here's why it happened, here's what to do about it.*
+💼 **Data Analytics Intern**  
+**Bosch Chassis Systems India**, Pune
 
+💼 **Data Visualization Intern**  
+**Infosys Springboard**
+
+📊 **Focus**  
+SQL • Power BI • Python • ETL Pipelines • Microsoft Fabric
 ---
 
 ### 🚀 Tech Stack
