@@ -6,7 +6,7 @@ SQL • Power BI • Python • Microsoft Fabric — from raw database to boardr
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/seema-kumari-375763308/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="mailto:seemakri136@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Open_to-Data%20Analyst%20%2F%20BI%20Roles-2E8B8B?style=flat">
 </p>
