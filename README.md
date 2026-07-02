@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Seema Kumari 👋</h1>
-<h3 align="center">Data Analyst | SQL • Power BI • Python • Microsoft Fabric</h3>
+<h3 align="center">Data Analyst | Turning Messy Data into Decisions</h3>
 
 <p align="center">
-I turn raw, messy data into business insights and decision-ready dashboards — end to end, from database to boardroom.
+SQL • Power BI • Python • Microsoft Fabric — from raw database to boardroom-ready dashboard.
 </p>
 
 <p align="center">
@@ -11,21 +11,19 @@ I turn raw, messy data into business insights and decision-ready dashboards — 
 <img src="https://img.shields.io/badge/Open_to-Data%20Analyst%20%2F%20BI%20Roles-2E8B8B?style=flat">
 </p>
 
+<p align="center">
+📊 <b>180K+</b> orders analyzed &nbsp;|&nbsp; 💰 <b>$764M</b> in transactions modeled &nbsp;|&nbsp; 🎯 <b>91.75%</b> risk-segmentation accuracy
+</p>
+
 ---
 
-## ⚡ Summary
+### ⚡ At a Glance
 
-🎓 **B.Tech in Mechanical Engineering**  
-**NIT Agartala** (2023–2027)
+- 🎓 B.Tech, Mechanical Engineering — **NIT Agartala** (2023–2027)
+- 💼 Data Analytics Intern @ **Bosch Chassis Systems India**, Pune *(current)*
+- 💼 Data Visualization Intern @ **Infosys Springboard**
+- 📈 I find the story hiding in the numbers — and build the dashboard that tells it
 
-💼 **Data Analytics Intern**  
-**Bosch Chassis Systems India**, Pune
-
-💼 **Data Visualization Intern**  
-**Infosys Springboard**
-
-📊 **Focus**  
-SQL • Power BI • Python • ETL Pipelines • Microsoft Fabric
 ---
 
 ### 🚀 Tech Stack
@@ -46,26 +44,36 @@ SQL • Power BI • Python • ETL Pipelines • Microsoft Fabric
 ### 💼 Experience
 
 **Data Analytics Intern**, Bosch Chassis Systems India Pvt. Ltd. — *May 2026–Present*
-Built Power BI production dashboards tracking manufacturing KPIs (Excel, SQL, Python, Databricks); automated reporting workflows, cutting manual effort by **40%**.
+Built production Power BI dashboards tracking manufacturing KPIs (Excel, SQL, Python, Databricks); automated reporting workflows, cutting manual effort by **40%**.
 
 **Data Visualization Intern**, Infosys Springboard — *Feb–Apr 2026*
-Analyzed 9,668 user records to segment **8,874 high-risk users (91.75%)**; built an interactive Power BI risk-tracking dashboard.
+Analyzed 9,668 user records to segment **8,874 high-risk users (91.75%)**; built an interactive Power BI risk-tracking dashboard. Surfaced key insights including 47% smartphone usage and 2,260 poor sleep cases.
 
 ---
 
 ### 📌 Featured Projects
 
 #### 🚛 [Vantara — Smart Supply Chain Intelligence Platform](https://github.com/seema-kri/Vantara-Smart-Supply-Chain-Intelligence-Platform)
-Full BA workflow on **180K+ order records** — built a PostgreSQL star schema from scratch, found a **56% revenue drop** hiding behind rising order volume, and flagged a **95% late-delivery rate** on the "fastest" shipping option. Delivered as a 3-page Power BI dashboard with full documentation (BRD, Decisions Log, Recommendations Report).
+End-to-end analytics on **180,519 order records** — uncovered a **56% revenue drop in Q4 2017** despite stable order volume; found **55% of orders late**, with premium shipping worst at **95%**; cross-validated metrics across SQL/DAX/Excel, correcting Repeat Customer Rate from an initial 76% to a verified **63.51%** before it reached leadership.
 `Python` `PostgreSQL` `SQL` `Excel` `Power BI`
 
-#### 🛒 [Walmart Revenue Intelligence Platform](https://github.com/seema-kri/walmart-revenue-intelligence-platform)
-End-to-end revenue analytics on **550K+ transactions ($764M analyzed)** — uncovered a **$59M revenue gap** and a **$367M growth opportunity** through SQL-driven category and store-level analysis.
-`SQL` `Python` `Power BI`
+#### 🍔 [Food-Delivery-Analytics-Warehouse](https://github.com/seema-kri/Food-Delivery-Analytics-Warehouse)
+Full pipeline (Lakehouse → Data Warehouse → Power BI) on Microsoft Fabric — **197,430 orders, $53M+** across 10+ Indian cities. 10 T-SQL queries (window functions, CTEs, MoM growth) surfaced revenue concentration risk and a **28% top-5-restaurant dependency risk**; 2 executive dashboards revealed 63.7% non-veg revenue share and Saturday peak demand (29K orders).
+`Microsoft Fabric` `SQL` `Power BI` `Python`
 
-#### ⚡ [EVision Analytics](https://github.com/seema-kri/ev-market-intelligence)
-Market intelligence on **279K+ EV registration records** — surfaced adoption trends and infrastructure gaps to support expansion decisions.
-`PostgreSQL` `Python` `Power BI`
+#### 🛒 [Walmart Revenue Intelligence Platform](https://github.com/seema-kri/walmart-revenue-intelligence-platform)
+**550K+ transactions, $764M revenue** analyzed via SQL/Python — 20+ DAX measures uncovered a **$59M revenue gap** and a **$300M+ B2B opportunity**.
+`Power BI` `Python` `PostgreSQL`
+
+---
+
+### 🏆 Achievements & Certifications
+
+- **Siemens Scholar** — Top 298 students nationwide
+- **Foundation For Excellence (FFE) Scholar** — industry-oriented Data Analytics training
+- Google Data Analytics Professional Certificate
+- HackerRank SQL (Advanced) Certified
+- Microsoft Azure Cloud Services Certification
 
 ---
 
@@ -74,5 +82,5 @@ Market intelligence on **279K+ EV registration records** — surfaced adoption t
 `Data Analyst` · `BI Analyst` · `Analytics Engineer` — internships and full-time roles.
 
 <p align="center">
-📩 Always happy to connect — reach out via <a href="https://linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> or <a href="mailto:seemakri136@gmail.com">email</a>.
+📩 Let's connect — always happy to talk data, dashboards, or opportunities.
 </p>
