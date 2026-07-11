@@ -47,12 +47,7 @@ I build data-driven solutions using **SQL, Python, Power BI, and cloud analytics
 
 ## 🛠️ Skills
 
-| Category | Skills |
-|----------|--------|
-| Programming Languages | Python, SQL, T-SQL |
-| Analytics & BI | Power BI, DAX, Excel, Data Visualization |
-| Data Science | Pandas, NumPy, Statistics, Machine Learning |
-| Data Engineering | Microsoft Fabric, Azure Databricks, ETL, Data Modeling |
+Python • SQL • T-SQL • Power BI • DAX • Excel • Data Visualization • Pandas • NumPy • Statistics • Machine Learning • Microsoft Fabric • ETL • Data Modeling
 
 ---
 
