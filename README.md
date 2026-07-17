@@ -1,100 +1,73 @@
 <h1 align="center">Hi, I'm Seema Kumari 👋</h1>
-
-<h3 align="center">
-Data Analyst | Turning Data into Business Insights
-</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Statistics</h3>
 
 <p align="center">
-SQL • Python • Power BI • Microsoft Fabric • Data Science
-<br>
-Building analytics solutions that transform raw data into actionable decisions.
+Turning raw data into business decisions — across fraud, retail, supply chain, fintech & consumer insights.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/seema-kumari-375763308/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
-
 <a href="mailto:seemakri136@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
-
 <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20%7C%20BI%20%7C%20Data%20Science%20Roles-2E8B8B?style=flat">
 </p>
 
-
 <p align="center">
-📊 180K+ Orders Analyzed &nbsp; | &nbsp;
-💰 $764M+ Data Explored &nbsp; | &nbsp;
-🎯 91.75% Risk Classification Accuracy
+🔍 6.3M+ Transactions Analyzed &nbsp;|&nbsp;
+📦 300K+ Orders Analyzed &nbsp;|&nbsp;
+💰 $800M+ Data Explored &nbsp;|&nbsp;
+🎯 91.75% Model Accuracy
 </p>
-
 
 ---
 
 ## ⚡ About Me
 
-🎓 B.Tech Mechanical Engineering @ **NIT Agartala**
+📊 Data Analyst with 5+ end-to-end analytics projects across fraud, retail, supply chain, fintech, and consumer risk
+💼 Data Analytics Intern @ **Bosch Chassis Systems India**
+🎓 B.Tech Mechanical Engineering, **NIT Agartala**
+🧠 Strong in SQL-first analysis, statistical testing, and translating data into decision-ready dashboards
 
-💼 **Data Analytics Intern @ Bosch Chassis Systems India**
+---
 
-📊 Passionate about Data Analytics, Business Intelligence, and Data Science.
+## 🚀 Top Projects
 
-I build data-driven solutions using **SQL, Python, Power BI, and cloud analytics tools** to uncover insights and solve real-world business problems.
+### 🚨 PaySight — UPI Fraud & Reliability Analytics
+6.3M transactions. Exposed a fraud system catching only **0.19%** of real fraud, fixed with a rule-based detection layer.
+`Python` `SQL` `Statistics` `ML`
 
+### 🚛 Vantara — Supply Chain Intelligence Platform
+63K+ orders analyzed for delivery performance, customer behavior, and revenue trends.
+`SQL` `Python` `Power BI`
+
+📂 More projects (Consumer Complaints, Food Delivery, EV Market, Walmart, PhonePe, A/B Testing) → check pinned repos below.
+
+---
+
+> *"Data doesn't lie — it just waits for the right question."*
 
 ---
 
 ## 🛠️ Skills
 
-Python • SQL • T-SQL • Power BI • DAX • Excel • Data Visualization • Pandas • NumPy • Statistics • Machine Learning • Microsoft Fabric • ETL • Data Modeling
+**Analysis:** SQL • Python (Pandas, NumPy) • Statistics • A/B Testing • Machine Learning
+**BI & Reporting:** Power BI • DAX • Excel • Microsoft Fabric
+**Domain:** Fraud/Risk Analytics • Retail & Supply Chain • Payments • ETL • Data Modeling
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Certifications & Recognition
 
-
-### 🚛 Smart Supply Chain Intelligence Platform
-
-End-to-end analytics platform analyzing **180K+ orders** using Python, SQL, Excel, and Power BI.
-
-• Identified revenue trends, delivery issues, and operational KPIs  
-• Built interactive dashboards for business decision-making
-
-
-### 🍔 Food Delivery Analytics Warehouse
-
-Analytics warehouse built with **Microsoft Fabric, SQL & Power BI** analyzing **197K+ orders and $53M+ revenue**.
-
-• Designed Lakehouse → Warehouse → Dashboard pipeline  
-• Created business insights using advanced SQL analytics
-
-
-### 🏦 Consumer Complaint Risk Analytics Platform
-
-Analyzed **62K+ consumer complaints (2017–2023)** using Python, SQL, and Power BI.
-
-• Discovered product risks, geographic hotspots, and operational gaps
-
+📜 Google Data Analytics Certificate &nbsp;|&nbsp; 📜 HackerRank SQL Advanced &nbsp;|&nbsp; 📜 Microsoft Azure Cloud
+🏅 Siemens Scholar &nbsp;|&nbsp; 🏅 Foundation For Excellence Scholar
 
 ---
 
-## 🏆 Achievements
+## 🎯 Targeting
 
-🏅 Siemens Scholar  
-🏅 Foundation For Excellence Scholar  
+`Data Analyst` • `BI Analyst` • `Analytics Engineer` • `Data Science` — open across industries.
 
-📜 Google Data Analytics Certificate  
-📜 HackerRank SQL Advanced Certified  
-📜 Microsoft Azure Cloud Certification
-
-
----
-
-## 🎯 Looking For
-
-`Data Analyst` • `BI Analyst` • `Data Science Intern` • `Analytics Engineer`
-
-<p align="center">
-📩 Let's connect and build impactful data solutions.
-</p>
+<p align="center">📩 Let's connect — always happy to talk data, fraud analytics, or risk.</p>
