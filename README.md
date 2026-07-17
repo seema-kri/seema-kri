@@ -16,9 +16,9 @@ Turning raw data into business decisions — across fraud, retail, supply chain,
 </p>
 
 <p align="center">
-🔍 6.3M+ Transactions Analyzed &nbsp;|&nbsp;
-📦 300K+ Orders Analyzed &nbsp;|&nbsp;
-💰 $800M+ Data Explored &nbsp;|&nbsp;
+🔍 6.3M+ Transactions Analyzed &nbsp;&nbsp;|&nbsp;&nbsp;
+📦 300K+ Orders Analyzed &nbsp;&nbsp;|&nbsp;&nbsp;
+💰 $800M+ Data Explored &nbsp;&nbsp;|&nbsp;&nbsp;
 🎯 91.75% Model Accuracy
 </p>
 
@@ -26,10 +26,10 @@ Turning raw data into business decisions — across fraud, retail, supply chain,
 
 ## ⚡ About Me
 
-📊 Data Analyst with 5+ end-to-end analytics projects across fraud, retail, supply chain, fintech, and consumer risk
-💼 Data Analytics Intern @ **Bosch Chassis Systems India**
-🎓 B.Tech Mechanical Engineering, **NIT Agartala**
-🧠 Strong in SQL-first analysis, statistical testing, and translating data into decision-ready dashboards
+- 📊 Data Analyst with 10+ end-to-end analytics projects across fraud, retail, supply chain, fintech, and consumer risk
+- 💼 Data Analytics Intern @ **Bosch Chassis Systems India**
+- 🎓 B.Tech Mechanical Engineering, **NIT Agartala**
+- 🧠 Strong in SQL-first analysis, statistical testing, and translating data into decision-ready dashboards
 
 ---
 
@@ -53,16 +53,19 @@ Turning raw data into business decisions — across fraud, retail, supply chain,
 
 ## 🛠️ Skills
 
-**Analysis:** SQL • Python (Pandas, NumPy) • Statistics • A/B Testing • Machine Learning
-**BI & Reporting:** Power BI • DAX • Excel • Microsoft Fabric
-**Domain:** Fraud/Risk Analytics • Retail & Supply Chain • Payments • ETL • Data Modeling
+- **Analysis:** SQL • Python (Pandas, NumPy) • Statistics • A/B Testing • Machine Learning
+- **BI & Reporting:** Power BI • DAX • Excel • Microsoft Fabric
+- **Domain:** Fraud/Risk Analytics • Retail & Supply Chain • Payments • ETL • Data Modeling
 
 ---
 
 ## 🏆 Certifications & Recognition
 
-📜 Google Data Analytics Certificate &nbsp;|&nbsp; 📜 HackerRank SQL Advanced &nbsp;|&nbsp; 📜 Microsoft Azure Cloud
-🏅 Siemens Scholar &nbsp;|&nbsp; 🏅 Foundation For Excellence Scholar
+- 📜 Google Data Analytics Certificate
+- 📜 HackerRank SQL Advanced
+- 📜 Microsoft Azure Cloud
+- 🏅 Siemens Scholar
+- 🏅 Foundation For Excellence Scholar
 
 ---
 
