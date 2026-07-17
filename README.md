@@ -26,7 +26,7 @@ Turning raw data into business decisions — across fraud, retail, supply chain,
 
 ## ⚡ About Me
 
-- 📊 Data Analyst with 10+ end-to-end analytics projects across fraud, retail, supply chain, fintech, and consumer risk
+- 📊 Data Analyst with 5+ end-to-end analytics projects across fraud, retail, supply chain, fintech, and consumer risk
 - 💼 Data Analytics Intern @ **Bosch Chassis Systems India**
 - 🎓 B.Tech Mechanical Engineering, **NIT Agartala**
 - 🧠 Strong in SQL-first analysis, statistical testing, and translating data into decision-ready dashboards
