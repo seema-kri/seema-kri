@@ -36,7 +36,7 @@
 End-to-end analytics on Sephora's catalog and 601K+ customer reviews. SQL analysis across 8,216 products flagged **$9.32M in revenue exposure** on underperforming SKUs; Python/VADER sentiment validated star ratings against review text; delivered as a self-service Power BI dashboard **live on Microsoft Fabric**.
 `SQL` `Python` `Power BI` `Sentiment Analysis`
 
-### 🚚 Vantara — Supply Chain Intelligence Platform
+### 🚚 [Vantara — Supply Chain Intelligence Platform](https://github.com/seema-kri/Vantara-Smart-Supply-Chain-Intelligence-Platform)
 Analyzed **63K+ orders** to surface supply chain bottlenecks and optimization opportunities, delivered through an interactive dashboard for operations stakeholders.
 `SQL` `Power BI` `ETL`
 
