@@ -6,8 +6,8 @@
 
 🎓 B.Tech @ NIT Agartala
 💼 Data Analytics Intern @ Bosch Chassis Systems India
-🌍 India | Open to Data Analytics & Data Science roles
-✈️ Open to relocation | Actively applying internationally
+🌍 India — Open to Data Analytics & Data Science roles
+✈️ Open to relocation
 
 ---
 
@@ -73,20 +73,13 @@ I don't just build dashboards — I find problems, quantify impact, and turn dat
 
 ### ✍️ Writing
 
-I write about data analytics, BI, and lessons from real projects on Medium — check it out below.
-
----
-
-### 📈 GitHub Stats
-
-![Seema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&theme=default&hide_border=true)
+I write about data analytics, BI, and lessons from real projects on [Medium](https://medium.com/@seemakri136).
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seema-kumari-375763308)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seemakri136)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seema-kri)
 
