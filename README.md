@@ -42,7 +42,7 @@ Tested packaging impact on conversion using hypothesis testing.
 ---
 
 ### 🛠️ Tech Stack
-`SQL` `Python` `Power BI` `DAX` `Microsoft Fabric` `Databricks` `PostgreSQL` `Excel` `ETL` `Data Modeling` `NLP` `Git`
+`SQL` `Python` `Power BI` `DAX` `Microsoft Fabric` `PostgreSQL` `Excel` `ETL` `Data Modeling` `NLP` `Git`
 
 ---
 
