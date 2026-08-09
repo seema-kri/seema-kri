@@ -48,6 +48,7 @@ Tested packaging impact on conversion using hypothesis testing.
 
 ### 🎯 What I Do
 **Extract → Clean → Model → Analyze → Visualize → Recommend**
+
 I don't just build dashboards — I find problems, quantify impact, and turn data into decisions.
 
 ---
