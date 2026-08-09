@@ -4,7 +4,9 @@
 **Turning data into business decisions with SQL, Python, Power BI & Microsoft Fabric.**
 
 🎓 B.Tech @ NIT Agartala
+
 💼 Data Analytics Intern @ Bosch Chassis Systems India
+
 📍 India | Open to Data Analytics, BI & Data Science opportunities
 
 ---
