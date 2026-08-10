@@ -5,7 +5,7 @@ Turning data into business decisions with SQL, Python, Power BI & Microsoft Fabr
 
 🎓 B.Tech (Mechanical Engineering) @ NIT Agartala, India
 💼 Data Analytics Intern @ Bosch Chassis Systems India
-🌍 Open to Data Analyst / Data Scientist roles — India & international relocation (Poland, Portugal, Spain, UK, UAE)
+🌍 Open to Data Analyst / Data Scientist roles 
 
 ---
 
