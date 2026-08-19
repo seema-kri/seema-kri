@@ -63,9 +63,9 @@ Analyzed manufacturing data using **SQL, Power BI, Excel & Azure Databricks**, i
 
 ## 📜 Certifications
 
-**Microsoft Fabric Analytics Engineer Associate**
-**Google Data Analytics Certificate**
-**HackerRank SQL Advanced • 5-Star SQL**
+* **Microsoft Fabric Analytics Engineer Associate**
+* **Google Data Analytics Certificate**
+* **HackerRank SQL Advanced • 5-Star SQL**
 
 ---
 
