@@ -38,7 +38,7 @@
 | :--- | :--- |
 | **Data Analysis & Modeling** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy), Statistics, EDA, Data Cleaning |
 | **BI & Visualization** | Power BI, DAX, Power Query, Advanced Excel, Matplotlib, Seaborn |
-| **Data Engineering & Cloud** | Microsoft Fabric, Azure Databricks, ETL Pipelines, Data Modeling |
+| **Data Engineering & Cloud** | Microsoft Fabric, ETL Pipelines, Data Modeling |
 
 ---
 
