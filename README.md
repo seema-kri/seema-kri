@@ -19,6 +19,15 @@
   <a href="https://www.hackerrank.com/profile/seemakri136"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,git&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-3F65E3?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 ---
 
 ### 💼 Core Value
@@ -29,6 +38,13 @@
 - 🚚 **Operations Analytics** — Processed **45,000+ fulfillment logs**, uncovering an **80% latency surge** and modeling an **18% delivery-time improvement**.
 
 🎯 **Open to:** Data Analyst / Business Analyst / BI Analyst roles & internships.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seema-kri&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
 
 ---
 
