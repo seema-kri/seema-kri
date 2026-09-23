@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/seema-kri">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=42&height=80&width=900&text=Hi%2C%20I'm%20Seema%20Kumari%20%F0%9F%91%8B" alt="Hi, I'm Seema Kumari" />
-  </a>
+  <h1 align="center">Hi, I'm Seema Kumari 👋</h1>
 </p>
 
 <p align="center">
@@ -9,77 +7,85 @@
 </p>
 
 <p align="center">
-  <em>Turning raw operational and business data into automated dashboards and decisions.</em>
+  Turning business and operational data into actionable insights.
 </p>
 
 <p align="center">
-  <a href="mailto:seemakri136@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/seema-kumari-375763308"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/seemakri136/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/profile/seemakri136"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /></a>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,git&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-1E1E1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-3F65E3?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <a href="mailto:seemakri136@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/seema-kumari-375763308">LinkedIn</a> •
+  <a href="https://github.com/seema-kri">GitHub</a> •
+  <a href="https://www.hackerrank.com/profile/seemakri136">HackerRank</a> •
+  <a href="https://leetcode.com/u/seemakri136/">LeetCode</a>
 </p>
 
 ---
 
-### 💼 Core Value
+## 🚀 About Me
 
-- 🏭 **Manufacturing Analytics** — Built a live Power BI dashboard tracking **5,600+ production units**, cutting reporting latency by **40%**.
-- 🔍 **Root-Cause Analysis** — Diagnosed **500+ component defect events** to surface recurring defect patterns for engineering teams.
-- 🛍️ **Business Analytics** — Analyzed **1.09M+ customer records** and **2,351 catalog SKUs**, flagging **44 underperforming products**.
-- 🚚 **Operations Analytics** — Processed **45,000+ fulfillment logs**, uncovering an **80% latency surge** and modeling an **18% delivery-time improvement**.
-
-🎯 **Open to:** Data Analyst / Business Analyst / BI Analyst roles & internships.
-
----
-
-### 🛠️ Technical Stack
-
-| Area | Tools |
-|---|---|
-| **Data Analysis** | SQL (PostgreSQL, CTEs, Window Functions), Python (Pandas, NumPy) |
-| **BI & Visualization** | Power BI, DAX, Power Query, Advanced Excel (PivotTables, INDEX/MATCH) |
-| **Data Engineering** | Microsoft Fabric (Lakehouse, Dataflow Gen2), ETL, Data Modeling, Star Schema |
+- 🎓 Final-year B.Tech Mechanical Engineering student at NIT Agartala
+- 📊 Skilled in **SQL, Python, Power BI, Excel, and Microsoft Fabric**
+- 🏭 Data Analyst Intern at **Bosch Chassis Systems India**
+- 🚚 Interested in **Data Analytics, Supply Chain, Operations, and BI**
+- 🤖 Currently learning **Statistics & Machine Learning**
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Skills
 
-**🛍️ Sephora Skincare Commercial & Customer Intelligence Analytics**
-`SQL` `Python` `Power BI` `Excel`
-Analyzed 1.09M+ customer records and 2,351 catalog SKUs using Python (Pandas, SQLAlchemy) and PostgreSQL. Built a 3-page Power BI dashboard on pricing, product performance, and brand contribution — found the top 10 brands drove 40.9% of catalog sales. Flagged 44 low-rated, high-traffic products as inventory risks.
-[**View Repository →**](https://github.com/seema-kri/sephora-skincare-commercial-analytics)
-
-**🍱 MealDash — Logistics Operations & Analytics**
-`SQL` `Microsoft Fabric` `Power BI` `DAX`
-Processed and validated 45,000+ fulfillment logs using Dataflow Gen2 and Lakehouse. Diagnosed an 80% latency surge during peak hours and a 25-minute dispatch bottleneck via SQL diagnostics. Built a Power BI dashboard modeling an 18% improvement in delivery cycles.
-[**View Repository →**](https://github.com/seema-kri/MealDash)
+**Data:** SQL, Python, Pandas, NumPy, PostgreSQL  
+**BI:** Power BI, DAX, Power Query, Excel  
+**Data Engineering:** Microsoft Fabric, ETL, Lakehouse, Dataflow Gen2  
+**Analytics:** Data Cleaning, KPI Analysis, EDA, Data Validation
 
 ---
 
-### 💼 Experience
+## 🚀 Featured Projects
+
+### 🏭 [Vantara — Supply Chain Intelligence](https://github.com/seema-kri/Vantara-Smart-Supply-Chain-Intelligence-Platform)
+`Python` `SQL` `Excel` `Power BI`
+
+Analyzed **63K+ orders** to evaluate fulfilment, delivery, revenue, and supply-chain performance.  
+Built a Power BI dashboard and uncovered **~56% Q4 revenue decline** and **~55% late deliveries**.
+
+### 💄 [Sephora — Commercial & Customer Analytics](https://github.com/seema-kri/Sephora-Skincare-Commercial-Customer-Analytics)
+`Python` `SQL` `Power BI`
+
+Analyzed **2,351 SKUs** and **1.09M+ reviews** to study product, pricing, and demand trends.  
+Flagged **44 high-risk SKUs** with **$6.27M revenue proxy at risk**.
+
+### 🍔 [MealDash — Logistics Operations Analytics](https://github.com/seema-kri/MealDash)
+`Excel` `SQL` `Microsoft Fabric` `Power BI`
+
+Analyzed **45K+ delivery orders** to identify fulfilment and delivery drivers.  
+Found **75–80% slower festival deliveries** and significant delays from order bundling.
+
+---
+
+## 💼 Experience
 
 **Data Analyst Intern — Bosch Chassis Systems India**
-Automated SQL-based ETL workflows for production data. Built a live Power BI dashboard connected to Azure Databricks tracking 5,600+ production units, cutting reporting latency by 40%. Diagnosed 500+ defect events for root-cause investigation.
+
+- Power BI dashboard tracking **5,600+ production units**
+- Reduced reporting latency by **40%**
+- Performed Excel validation/reconciliation and SQL ETL
+- Analyzed **500+ defect events**
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
-- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
-- Google Data Analytics Professional Certificate
-- HackerRank SQL (Advanced) — 5-Star Gold Badge
+- Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
+- **Google Data Analytics Professional Certificate**
+- **HackerRank SQL Advanced — 5-Star Gold Badge**
+
+---
+
+## 🎯 Currently Learning
+
+**Statistics • Machine Learning • Advanced SQL • Business Analytics**
 
 ---
 
 <p align="center">
-  <sub>Open to connecting on data analytics, BI dashboards, and open roles.</sub>
+  <em>Learning consistently. Building practical projects. Solving problems with data.</em>
 </p>
