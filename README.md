@@ -38,14 +38,6 @@
 
 ## 🚀 Featured Projects
 
-### 🏭 [Vantara — Smart Supply Chain Intelligence Platform](https://github.com/seema-kri/Vantara-Smart-Supply-Chain-Intelligence-Platform)
-`Python` `SQL` `Excel` `Power BI`
-
-Analyzed **63K+ orders** and **180K+ order lines** to uncover fulfilment, delivery, and revenue gaps.  
-Identified a **~56% Q4 revenue decline** and **~55% late deliveries** through KPI analysis.
-
-[**View Repository →**](https://github.com/seema-kri/Vantara-Smart-Supply-Chain-Intelligence-Platform)
-
 ### 💄 [Sephora — Commercial & Customer Analytics](https://github.com/seema-kri/Sephora-Skincare-Commercial-Customer-Analytics)
 `Python` `SQL` `Power BI`
 
