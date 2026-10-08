@@ -68,11 +68,11 @@ Final-year **B.Tech Mechanical Engineering student at NIT Agartala** with hands-
 
 ## 🧠 Skills
 
-**SQL:** PostgreSQL, T-SQL, CTEs, Window Functions
-**Python:** Pandas, NumPy, SciPy, Statsmodels, EDA
-**BI:** Power BI, DAX, Data Modeling, KPI Dashboards
-**Data:** Excel, Power Query, Microsoft Fabric, ETL, Data Validation
-**Analytics:** Statistical Analysis, Business Analysis, Data Visualization
+* **SQL:** PostgreSQL, T-SQL, CTEs, Window Functions
+* **Python:** Pandas, NumPy, SciPy, Statsmodels, EDA
+* **BI:** Power BI, DAX, Data Modeling, KPI Dashboards
+* **Data:** Excel, Power Query, Microsoft Fabric, ETL, Data Validation
+* **Analytics:** Statistical Analysis, Business Analysis, Data Visualization
 
 ## 🎓 Education
 
@@ -86,9 +86,9 @@ Final-year **B.Tech Mechanical Engineering student at NIT Agartala** with hands-
 
 ## 📜 Certifications
 
-**Microsoft Fabric Analytics Engineer Associate (DP-600)**
-**Google Data Analytics Professional Certificate**
-**HackerRank SQL Advanced — 5-Star Gold**
+**Microsoft Fabric Analytics Engineer Associate (DP-600)** 
+**Google Data Analytics Professional Certificate** 
+**HackerRank SQL Advanced — 5-Star Gold** 
 
 ---
 
