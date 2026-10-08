@@ -86,9 +86,9 @@ Final-year **B.Tech Mechanical Engineering student at NIT Agartala** with hands-
 
 ## 📜 Certifications
 
-**Microsoft Fabric Analytics Engineer Associate (DP-600)** 
-**Google Data Analytics Professional Certificate** 
-**HackerRank SQL Advanced — 5-Star Gold** 
+* **Microsoft Fabric Analytics Engineer Associate (DP-600)** 
+* **Google Data Analytics Professional Certificate** 
+* **HackerRank SQL Advanced — 5-Star Gold** 
 
 ---
 
