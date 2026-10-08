@@ -56,14 +56,6 @@ Final-year **B.Tech Mechanical Engineering student at NIT Agartala** with hands-
 
 → [View Project](https://github.com/seema-kri/NYC-Taxi-Revenue-Analysis)
 
-### 💄 Sephora Commercial & Customer Analytics
-
-**2,351 SKUs | 1.09M+ reviews | Python | SQL | Power BI**
-
-* Flagged **44 high-risk SKUs**
-* Identified concentration across top-performing brands
-
-→ [View Project](https://github.com/seema-kri/Sephora-Skincare-Commercial-Customer-Analytics)
 
 ## 💼 Experience
 
