@@ -1,28 +1,50 @@
 
-<h1 align="center">Seema Kumari</h1>
-<h3 align="center">Data Analytics | Business Intelligence | Machine Learning</h3>
+<div align="center">
 
-<p align="center">
-  🎓 NIT Agartala '27 &nbsp;|&nbsp; 💼 Ex-Intern @ Bosch
+# SEEMA KUMARI 👋
+
+### Data Analyst | Business Intelligence | Data Science
+
+🎓 NIT Agartala '27 &nbsp; | &nbsp; 💼 Ex-Intern @ Bosch
+
+**Turning complex data into actionable business insights.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seema-kumari-375763308/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kriseema87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/seema-kri)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Highlights | Tech Stack |
+|---|---|---|
+| 🚚 [Supply Chain Analytics](https://github.com/seema-kri/Supply-Chain-Delivery-Performance-Analytics) | 172K+ orders, delay analysis & risk prediction | Python, SQL, ML |
+| 🏦 [Banking Analytics](https://github.com/seema-kri/Automated-Banking-Analytics-Dashboard) | 49K+ transactions, business intelligence | SQL Server, Fabric, Power BI |
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pandas,jupyter,git,github,vscode" />
 </p>
 
-<p align="center">
-  Turning 172K+ supply chain records and 49K+ banking transactions into actionable business insights.
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/seema-kri/Supply-Chain-Delivery-Performance-Analytics">🚚 Supply Chain Analytics</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/seema-kri/Automated-Banking-Analytics-Dashboard">🏦 Banking Analytics</a>
-</p>
+### 📊 GitHub Analytics
 
 <p align="center">
-  <b>SQL</b> • <b>Python</b> • <b>Power BI</b> • <b>Microsoft Fabric</b> • <b>Machine Learning</b>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=seema-kri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seema-kri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> •
-  <a href="mailto:kriseema87@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/seemakri136/">LeetCode</a>
+### ✨ Turning Data Into Decisions
 </p>
-
