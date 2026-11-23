@@ -1,35 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Seema Kumari</h1>
-<h3 align="center">Data Analyst | BI Analyst | Aspiring Data Scientist</h3>
+<h1 align="center">Seema Kumari</h1>
+<h3 align="center">Data Analytics | Business Intelligence | Machine Learning</h3>
 
-🎓 NIT Agartala '27 | Ex-Intern @ Bosch
+<p align="center">
+  🎓 NIT Agartala '27 &nbsp;|&nbsp; 💼 Ex-Intern @ Bosch
+</p>
 
-📊 Skilled in SQL, Python, Power BI, Microsoft Fabric & Machine Learning.
+<p align="center">
+  Turning 172K+ supply chain records and 49K+ banking transactions into actionable business insights.
+</p>
 
-### ⭐ Featured Projects
+<p align="center">
+  <a href="https://github.com/seema-kri/Supply-Chain-Delivery-Performance-Analytics">🚚 Supply Chain Analytics</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/seema-kri/Automated-Banking-Analytics-Dashboard">🏦 Banking Analytics</a>
+</p>
 
-**1. Supply Chain Analytics**
-- 172K+ orders analyzed
-- Python, SQL, Machine Learning
-- Delivery performance & risk prediction
-[View Project](https://github.com/seema-kri/Supply-Chain-Delivery-Performance-Analytics)
+<p align="center">
+  <b>SQL</b> • <b>Python</b> • <b>Power BI</b> • <b>Microsoft Fabric</b> • <b>Machine Learning</b>
+</p>
 
-**2. Banking Analytics Dashboard**
-- 49K+ transactions analyzed
-- SQL Server, Microsoft Fabric, Power BI
-- Business insights & data visualization
-[View Project](https://github.com/seema-kri/Automated-Banking-Analytics-Dashboard)
+<p align="center">
+  <a href="https://www.linkedin.com/in/seema-kumari-375763308/">LinkedIn</a> •
+  <a href="mailto:kriseema87@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/seemakri136/">LeetCode</a>
+</p>
 
-### 🛠️ Skills
-- Programming: Python, SQL
-- Visualization: Power BI, Excel
-- Analytics: EDA, Statistics, Machine Learning
-- Tools: Microsoft Fabric, SQL Server, Jupyter
-
-### 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/seema-kumari-375763308/)
-- [LeetCode](https://leetcode.com/u/seemakri136/)
-- [HackerRank](https://www.hackerrank.com/profile/seemakri136)
-- Email: kriseema87@gmail.com
-
-**Turning Data Into Decisions 📊**
